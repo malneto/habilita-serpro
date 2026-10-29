@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Robô do Habilita: lê a pasta pública do SerproDrive, baixa só o que é novo ou mudou,
 extrai o texto (com leitura de imagem para PDF escaneado), descobre a validade de cada
-certidão e gera o índice estático do site (site/dados.json), com cópia dos PDFs e miniaturas.
+certidão e gera o índice estático do site (docs/dados.json), com cópia dos PDFs e miniaturas.
 
 Não usa nenhuma API paga: WebDAV público do Nextcloud + pypdf/pdfium + tesseract (se instalado).
 Uso: python3 sync/sincronizar.py
@@ -13,7 +13,7 @@ from pathlib import Path
 TOKEN = os.environ.get("SERPRODRIVE_TOKEN", "rYe4xqS7Tr3xwkS")
 BASE = "https://serprodrive.serpro.gov.br"
 RAIZ = Path(__file__).resolve().parent.parent
-SITE = RAIZ / "site"
+SITE = RAIZ / "docs"
 CACHE = RAIZ / ".cache" / "arquivos"
 DADOS = SITE / "dados.json"
 HOJE = dt.date.today()
