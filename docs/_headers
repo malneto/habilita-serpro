@@ -1,0 +1,11 @@
+# Cloudflare Pages: nada deste site entra em buscador (inclusive os PDFs copiados)
+/*
+  X-Robots-Tag: noindex, nofollow, noarchive
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Content-Type-Options: nosniff
+
+/dados.json
+  Cache-Control: no-cache
+
+/sw.js
+  Cache-Control: no-cache

@@ -2,15 +2,16 @@
 // aqui ficam só o que não pode ir para o navegador: a chave da IA (válida só no dia do teste) e o registro das buscas.
 import { put, list, get } from "@vercel/blob";
 
-export const SITE = process.env.SITE_URL || "https://malneto.github.io/habilita-serpro/";
+export const SITE = process.env.SITE_URL || "https://habilita-serpro.pages.dev/";
 // IA liberada só até a meia-noite de 29/10/2026 (Brasília). Depois disso o servidor recusa, mesmo com chave.
 export const IA_ATE = new Date(process.env.IA_ATE || "2026-10-30T03:00:00Z");
 export const IA_LIMITE = Number(process.env.IA_LIMITE || 400);
 
 export function cors(req, res) {
   const origem = req.headers.origin || "";
-  const ok = origem === "https://malneto.github.io" || origem.startsWith("http://localhost");
-  res.setHeader("Access-Control-Allow-Origin", ok ? origem : "https://malneto.github.io");
+  // endereço principal no Cloudflare Pages (e prévias *.habilita-serpro.pages.dev); o do GitHub segue liberado enquanto existir
+  const ok = /^https:\/\/([a-z0-9-]+\.)?habilita-serpro\.pages\.dev$/.test(origem) || origem === "https://malneto.github.io" || origem.startsWith("http://localhost");
+  res.setHeader("Access-Control-Allow-Origin", ok ? origem : "https://habilita-serpro.pages.dev");
   res.setHeader("Access-Control-Allow-Methods", "GET,POST,OPTIONS");
   res.setHeader("Access-Control-Allow-Headers", "Content-Type");
   res.setHeader("Cache-Control", "no-store");
