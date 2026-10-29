@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Alerta diário de documentação vencida/vencendo do Habilita, por e-mail (grátis: SMTP do Gmail).
+"""Alerta diário de documentação vencida do Habilita, por e-mail (grátis).
 
-Roda pelo cron às 8h. Só envia quando há novidade: cada documento avisa uma vez em cada etapa
-(15 dias, 7 dias, 1 dia, vencida). Configuração em ~/.config/habilita/email.env:
+Roda todo dia às 7h. Envia sempre que houver documento VENCIDO (1x por dia, mesmo que já avisado),
+e aproveita para listar o que vence nos próximos 15 dias. Configuração em ~/.config/habilita/email.env:
   SMTP_USER=malneto@gmail.com
   SMTP_PASS=<senha de app do Google, 16 letras>
   PARA=pessoa1@serpro.gov.br,pessoa2@serpro.gov.br
@@ -93,7 +93,7 @@ def montar(lista, novos):
     {bloco("Vencidas — fora do site", "#e52207", vencidas)}
     {bloco("Vencem em até 15 dias", "#b65d00", vencendo)}
     <p style="margin:22px 0 0"><a href="{SITE}" style="background:#003da5;color:#fff;text-decoration:none;padding:10px 16px;border-radius:10px;font-weight:700">Abrir o Habilita</a></p>
-    <p style="color:#5a6a83;font-size:12px;margin-top:18px">Alerta automático e gratuito do Habilita, enviado às 8h só quando há novidade (cada documento avisa aos 15, 7 e 1 dia e quando vence).
+    <p style="color:#5a6a83;font-size:12px;margin-top:18px">Alerta automático e gratuito do Habilita, enviado todo dia às 7h enquanto houver documento vencido.
     Datas lidas no próprio PDF ou, quando ele não traz, na tabela de vencimentos da pasta.</p>
   </div></div>"""
     return assunto, corpo
@@ -104,10 +104,13 @@ def main():
     estado = json.loads(ESTADO.read_text()) if ESTADO.exists() else {}
     lista = itens()
     chave = lambda i: f"{i['titulo']}|{i['ate']}|{i['etapa']}"
-    novos = lista if previa else [i for i in lista if chave(i) not in estado]
-    if not novos:
-        print("sem novidade: nenhum e-mail")
+    if not any(i["etapa"] == "vencida" for i in lista) and not previa:
+        print("nenhum documento vencido: sem e-mail hoje")
         return
+    if estado.get("_ultimoEnvio") == HOJE.isoformat() and not previa:
+        print("já enviado hoje")
+        return
+    novos = [i for i in lista if chave(i) not in estado]   # marcados como NOVO no e-mail
     assunto, corpo = montar(lista, novos)
     PREVIA.parent.mkdir(parents=True, exist_ok=True)
     PREVIA.write_text(f"<!-- {assunto} -->\n{corpo}", "utf-8")
@@ -122,8 +125,9 @@ def main():
     with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=60) as s:
         s.login(c["SMTP_USER"], c["SMTP_PASS"])
         s.send_message(msg)
-    for i in novos:
-        estado[chave(i)] = HOJE.isoformat()
+    for i in lista:
+        estado.setdefault(chave(i), HOJE.isoformat())
+    estado["_ultimoEnvio"] = HOJE.isoformat()
     ESTADO.write_text(json.dumps(estado, ensure_ascii=False, indent=1))
     print(f"enviado para {c['PARA']}: {assunto}")
 
