@@ -403,11 +403,11 @@ def main():
         "categorias": categorias,
         "documentos": documentos,
     }
-    novo_json = json.dumps(saida, ensure_ascii=False, indent=0)
+    novo_json = json.dumps(saida, ensure_ascii=False, indent=0, sort_keys=True)  # ordem fixa: só muda o que mudou de fato
     # só regrava se algo além do horário mudou (evita commit a cada hora sem novidade)
     if DADOS.exists():
         velho = json.loads(DADOS.read_text("utf-8")); velho["geradoEm"] = saida["geradoEm"]
-        if json.dumps(velho, ensure_ascii=False, indent=0) == novo_json:
+        if json.dumps(velho, ensure_ascii=False, indent=0, sort_keys=True) == novo_json:
             print("nada mudou na pasta")
             return
     DADOS.write_text(novo_json, "utf-8")
