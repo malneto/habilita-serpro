@@ -1,5 +1,5 @@
 {
-"geradoEm": "2026-10-29T19:54:46Z",
+"geradoEm": "2026-10-29T19:57:05Z",
 "fonte": {
 "nome": "SUPCO_TRIBUTARIO_DOCUMENTAÇÃO",
 "url": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS",
@@ -230,11 +230,18 @@
 "primeiroVisto": "2026-10-29T19:47:46Z",
 "download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/01%20-%20SICAF&files=DECLARACAO%20SICAF%20REGIONAL%20BELEM-PA.pdf",
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/01%20-%20SICAF",
-"texto": "",
-"leitura": "sem texto",
-"validadeDoc": null,
+"texto": "Sistema de Cadastramento Unificado de Fornecedores - SICAF\n\nDeclaração\nDeclaramos para os fins exigidos na legislação, conforme documentação registrada no SICAF, que a situação do\nfornecedor no momento é a seguinte:\n\nDados do Fornecedor\n\nCND): 33.683.111/0003-60 DUNSO: 91*****67\n\nRazão Social: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)\nNome Fantasia: REGIONAL BELEM-PA\n\nSituação do Fornecedor: Credenciado Data de Vencimento do Cadastro: 18/01/2027\nNatureza Jurídica: EMPRESA PÚBLICA\n\nMEI: Não\n\nPorte da Empresa: Demais\n\nOcorrências e Impedimentos\nOcorrência: Nada Consta\n\nImpedimento de Licitar: Nada Consta\n\nNíveis cadastrados:\nAutomática: a certidão foi obtida através de integração direta com o sistema emissor. Manual: a certidão foi inserida\nmanualmente pelo fornecedor.\n\nI - Credenciamento\nII - Habilitação Jurídica\nIII - Regularidade Fiscal e Trabalhista Federal\n\nReceita Federal e PGEN Validade: 16/04/2027 Automática\n\nFGTS Validade: 16/11/2026 Automática\n\nTrabalhista (http://www.tst.jus.br/certidao) Validade: 17/04/2027 Automática\nIV - Regularidade Fiscal Estadual/Distrital e Municipal\n\nReceita Estadual/Distrital Validade: 17/04/2027\n\nReceita Municipal Validade: 11/03/2027\n\nVI - Qualificação Econômico-Financeira\nValidade: 30/06/2027\n\nEsta declaração é uma simples consulta e não tem efeito legal\nEmitido em: 19/10/2026 15:09 1 de 1\n\nCPF: 225.XXX.XXX-91 Nome: EDSON DOMINGOS FERRAO\nAss:",
+"leitura": "ocr",
+"validadeDoc": {
+"ate": "2027-01-18",
+"fonte": "documento"
+},
+"ver": "arquivos/80b89d6461d5.pdf",
 "miniatura": "miniaturas/80b89d6461d5.webp",
-"ver": "arquivos/80b89d6461d5.pdf"
+"validade": {
+"ate": "2027-01-18",
+"fonte": "documento"
+}
 },
 {
 "id": "754a1e42a64c",
@@ -255,11 +262,18 @@
 "primeiroVisto": "2026-10-29T19:47:49Z",
 "download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/01%20-%20SICAF&files=DECLARACAO%20SICAF%20REGIONAL%20BELO%20HORIZONTE-MG.pdf",
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/01%20-%20SICAF",
-"texto": "",
-"leitura": "sem texto",
-"validadeDoc": null,
+"texto": "Sistema de Cadastramento Unificado de Fornecedores - SICAF\n\nDeclaração\nDeclaramos para os fins exigidos na legislação, conforme documentação registrada no SICAF, que a situação do\nfornecedor no momento é a seguinte:\n\nDados do Fornecedor\n\nCND): 33.683.111/0007-94 DUNSO: 91*****83\n\nRazão Social: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)\nNome Fantasia: REGIONAL BELO HORIZONTE-MG\n\nSituação do Fornecedor: Credenciado Data de Vencimento do Cadastro: 11/12/2026\nNatureza Jurídica: EMPRESA PÚBLICA\n\nMEI: Não\n\nPorte da Empresa: Demais\n\nOcorrências e Impedimentos\nOcorrência: Nada Consta\n\nImpedimento de Licitar: Nada Consta\n\nNíveis cadastrados:\nAutomática: a certidão foi obtida através de integração direta com o sistema emissor. Manual: a certidão foi inserida\nmanualmente pelo fornecedor.\n\nI - Credenciamento\nII - Habilitação Jurídica\nIII - Regularidade Fiscal e Trabalhista Federal\n\nReceita Federal e PGEN Validade: 17/04/2027 Automática\n\nFGTS Validade: 16/11/2026 Automática\n\nTrabalhista (http://www.tst.jus.br/certidao) Validade: 17/04/2027 Automática\nIV - Regularidade Fiscal Estadual/Distrital e Municipal\n\nReceita Estadual/Distrital Validade: 17/01/2027\n\nReceita Municipal Validade: 15/11/2026\n\nVI - Qualificação Econômico-Financeira\nValidade: 30/06/2027\n\nEsta declaração é uma simples consulta e não tem efeito legal\nEmitido em: 19/10/2026 15:31 1 de 1\n\nCPF: 225.XXX.XXX-91 Nome: EDSON DOMINGOS FERRAO\nAss:",
+"leitura": "ocr",
+"validadeDoc": {
+"ate": "2026-12-11",
+"fonte": "documento"
+},
+"ver": "arquivos/754a1e42a64c.pdf",
 "miniatura": "miniaturas/754a1e42a64c.webp",
-"ver": "arquivos/754a1e42a64c.pdf"
+"validade": {
+"ate": "2026-12-11",
+"fonte": "documento"
+}
 },
 {
 "id": "bce5ea7f01c0",
@@ -312,11 +326,18 @@
 "primeiroVisto": "2026-10-29T19:47:50Z",
 "download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/01%20-%20SICAF&files=DECLARACAO%20SICAF%20REGIONAL%20CURITIBA-PR.pdf",
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/01%20-%20SICAF",
-"texto": "",
-"leitura": "sem texto",
-"validadeDoc": null,
+"texto": "Sistema de Cadastramento Unificado de Fornecedores - SICAF\n\nDeclaração\nDeclaramos para os fins exigidos na legislação, conforme documentação registrada no SICAF, que a situação do\nfornecedor no momento é a seguinte:\n\nDados do Fornecedor\n\nCND): 33.683.111/0010-90 DUNSG: 90*****88\n\nRazão Social: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)\nNome Fantasia: REGIONAL CURITIBA-PR\n\nSituação do Fornecedor: Credenciado Data de Vencimento do Cadastro: 22/01/2027\nNatureza Jurídica: EMPRESA PÚBLICA\n\nMEI: Não\n\nPorte da Empresa: Demais\n\nOcorrências e Impedimentos\nOcorrência: Nada Consta\n\nImpedimento de Licitar: Nada Consta\n\nNíveis cadastrados:\nAutomática: a certidão foi obtida através de integração direta com o sistema emissor. Manual: a certidão foi inserida\nmanualmente pelo fornecedor.\n\nI - Credenciamento\nII - Habilitação Jurídica\nIII - Regularidade Fiscal e Trabalhista Federal\n\nReceita Federal e PGEN Validade: 17/04/2027 Automática\n\nFGTS Validade: 16/11/2026 Automática\n\nTrabalhista (http://www.tst.jus.br/certidao) Validade: 17/04/2027 Automática\nIV - Regularidade Fiscal Estadual/Distrital e Municipal\n\nReceita Estadual/Distrital Validade: 16/02/2027\n\nReceita Municipal Validade: 17/01/2027\n\nVI - Qualificação Econômico-Financeira\nValidade: 30/06/2027\n\nEsta declaração é uma simples consulta e não tem efeito legal\nEmitido em: 19/10/2026 15:45 1 de 1\n\nCPF: 225.XXX.XXX-91 Nome: EDSON DOMINGOS FERRAO\nAss:",
+"leitura": "ocr",
+"validadeDoc": {
+"ate": "2027-01-22",
+"fonte": "documento"
+},
+"ver": "arquivos/406b529b000f.pdf",
 "miniatura": "miniaturas/406b529b000f.webp",
-"ver": "arquivos/406b529b000f.pdf"
+"validade": {
+"ate": "2027-01-22",
+"fonte": "documento"
+}
 },
 {
 "id": "6a6a9930503c",
@@ -369,11 +390,18 @@
 "primeiroVisto": "2026-10-29T19:47:53Z",
 "download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/01%20-%20SICAF&files=DECLARACAO%20SICAF%20REGIONAL%20PORTO%20ALEGRE-RS.pdf",
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/01%20-%20SICAF",
-"texto": "",
-"leitura": "sem texto",
-"validadeDoc": null,
+"texto": "Sistema de Cadastramento Unificado de Fornecedores - SICAF\n\nDeclaração\nDeclaramos para os fins exigidos na legislação, conforme documentação registrada no SICAF, que a situação do\nfornecedor no momento é a seguinte:\n\nDados do Fornecedor\n\nCND): 33.683.111/0011-70 DUNSG: 90*****37\n\nRazão Social: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)\nNome Fantasia: REGIONAL PORTO ALEGRE-RS\n\nSituação do Fornecedor: Credenciado Data de Vencimento do Cadastro: 10/03/2027\nNatureza Jurídica: EMPRESA PÚBLICA\n\nMEI: Não\n\nPorte da Empresa: Demais\n\nOcorrências e Impedimentos\nOcorrência: Nada Consta\n\nImpedimento de Licitar: Nada Consta\n\nNíveis cadastrados:\nAutomática: a certidão foi obtida através de integração direta com o sistema emissor. Manual: a certidão foi inserida\nmanualmente pelo fornecedor.\n\nI - Credenciamento\nII - Habilitação Jurídica\nIII - Regularidade Fiscal e Trabalhista Federal\n\nReceita Federal e PGEN Validade: 17/04/2027 Automática\n\nFGTS Validade: 16/11/2026 Automática\n\nTrabalhista (http://www.tst.jus.br/certidao) Validade: 17/04/2027 Automática\nIV - Regularidade Fiscal Estadual/Distrital e Municipal\n\nReceita Estadual/Distrital Validade: 12/11/2026\n\nReceita Municipal Validade: 28/11/2026\n\nVI - Qualificação Econômico-Financeira\nValidade: 30/06/2027\n\nEsta declaração é uma simples consulta e não tem efeito legal\n\nEmitido em: 29/10/2026 07:39 1 de 1\nCPF: 225.XXX.XXX-91 Nome: EDSON DOMINGOS FERRAO\nAss:",
+"leitura": "ocr",
+"validadeDoc": {
+"ate": "2027-03-10",
+"fonte": "documento"
+},
+"ver": "arquivos/efc451f28f8c.pdf",
 "miniatura": "miniaturas/efc451f28f8c.webp",
-"ver": "arquivos/efc451f28f8c.pdf"
+"validade": {
+"ate": "2027-03-10",
+"fonte": "documento"
+}
 },
 {
 "id": "981b3255193d",
@@ -394,11 +422,18 @@
 "primeiroVisto": "2026-10-29T19:47:54Z",
 "download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/01%20-%20SICAF&files=DECLARACAO%20SICAF%20REGIONAL%20RECIFE-PE.pdf",
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/01%20-%20SICAF",
-"texto": "",
-"leitura": "sem texto",
-"validadeDoc": null,
+"texto": "Sistema de Cadastramento Unificado de Fornecedores - SICAF\n\nDeclaração\nDeclaramos para os fins exigidos na legislação, conforme documentação registrada no SICAF, que a situação do\nfornecedor no momento é a seguinte:\n\nDados do Fornecedor\n\nCND): 33.683.111/0005-22 DUNSG: 90*****38\n\nRazão Social: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)\nNome Fantasia: REGIONAL RECIFE-PE\n\nSituação do Fornecedor: Credenciado Data de Vencimento do Cadastro: 20/10/2027\nNatureza Jurídica: EMPRESA PÚBLICA\n\nMEI: Não\n\nPorte da Empresa: Demais\n\nOcorrências e Impedimentos\nOcorrência: Nada Consta\n\nImpedimento de Licitar: Nada Consta\n\nNíveis cadastrados:\nFornecedor possui pendências em um ou mais níveis de cadastramento. Para mais informações, utilize as funcionalidades de\nconsulta disponíveis.\n\nAutomática: a certidão foi obtida através de integração direta com o sistema emissor. Manual: a certidão foi inserida\nmanualmente pelo fornecedor.\n\nI - Credenciamento\nII - Habilitação Jurídica\nIII - Regularidade Fiscal e Trabalhista Federal\n\nReceita Federal e PGEN Validade: 17/04/2027 Automática\n\nFGTS Validade: 16/11/2026 Automática\n\nTrabalhista (http://www.tstjus.br/certidao) Validade: 17/04/2027 Automática\nIV - Regularidade Fiscal Estadual/Distrital e Municipal\n\nReceita Estadual/Distrital Validade: 24/01/2027\n\nReceita Municipal Validade: 24/11/2026\n\nVI - Qualificação Econômico-Financeira\nValidade: 30/06/2027\n\nEsta declaração é uma simples consulta e não tem efeito legal\n\nEmitido em: 27/10/2026 09:39 1 de 1\nCPF: 225.XXX.XXX-91 Nome: EDSON DOMINGOS FERRAO\nAss:",
+"leitura": "ocr",
+"validadeDoc": {
+"ate": "2027-10-20",
+"fonte": "documento"
+},
+"ver": "arquivos/981b3255193d.pdf",
 "miniatura": "miniaturas/981b3255193d.webp",
-"ver": "arquivos/981b3255193d.pdf"
+"validade": {
+"ate": "2027-10-20",
+"fonte": "documento"
+}
 },
 {
 "id": "82e3fe55799a",
@@ -419,11 +454,18 @@
 "primeiroVisto": "2026-10-29T19:47:55Z",
 "download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/01%20-%20SICAF&files=DECLARACAO%20SICAF%20REGIONAL%20RIO%20DE%20JANEIRO-RJ.pdf",
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/01%20-%20SICAF",
-"texto": "",
-"leitura": "sem texto",
-"validadeDoc": null,
+"texto": "Sistema de Cadastramento Unificado de Fornecedores - SICAF\n\nDeclaração\nDeclaramos para os fins exigidos na legislação, conforme documentação registrada no SICAF, que a situação do\nfornecedor no momento é a seguinte:\n\nDados do Fornecedor\n\nCND): 33.683.111/0008-75 DUNSO: 90*****63\n\nRazão Social: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)\nNome Fantasia: REGIONAL RIO DE JANEIRO-RJ\n\nSituação do Fornecedor: Credenciado Data de Vencimento do Cadastro: 26/05/2027\nNatureza Jurídica: EMPRESA PÚBLICA\n\nMEI: Não\n\nPorte da Empresa: Demais\n\nOcorrências e Impedimentos\nOcorrência: Nada Consta\n\nImpedimento de Licitar: Nada Consta\n\nNíveis cadastrados:\nAutomática: a certidão foi obtida através de integração direta com o sistema emissor. Manual: a certidão foi inserida\nmanualmente pelo fornecedor.\n\nI - Credenciamento\nII - Habilitação Jurídica\nIII - Regularidade Fiscal e Trabalhista Federal\n\nReceita Federal e PGEN Validade: 17/04/2027 Automática\n\nFGTS Validade: 16/11/2026 Automática\n\nTrabalhista (http://www.tst.jus.br/certidao) Validade: 17/04/2027 Automática\nIV - Regularidade Fiscal Estadual/Distrital e Municipal\n\nReceita Estadual/Distrital Validade: 18/11/2026\n\nReceita Municipal Validade: 13/01/2027\n\nVI - Qualificação Econômico-Financeira\nValidade: 30/06/2027\n\nEsta declaração é uma simples consulta e não tem efeito legal\nEmitido em: 19/10/2026 15:23 1 de 1\n\nCPF: 225.XXX.XXX-91 Nome: EDSON DOMINGOS FERRAO\nAss:",
+"leitura": "ocr",
+"validadeDoc": {
+"ate": "2027-05-26",
+"fonte": "documento"
+},
+"ver": "arquivos/82e3fe55799a.pdf",
 "miniatura": "miniaturas/82e3fe55799a.webp",
-"ver": "arquivos/82e3fe55799a.pdf"
+"validade": {
+"ate": "2027-05-26",
+"fonte": "documento"
+}
 },
 {
 "id": "1ddcd410d21c",
@@ -444,11 +486,18 @@
 "primeiroVisto": "2026-10-29T19:47:57Z",
 "download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/01%20-%20SICAF&files=DECLARACAO%20SICAF%20REGIONAL%20SALVADOR-BA.pdf",
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/01%20-%20SICAF",
-"texto": "",
-"leitura": "sem texto",
-"validadeDoc": null,
+"texto": "Sistema de Cadastramento Unificado de Fornecedores - SICAF\n\nDeclaração\nDeclaramos para os fins exigidos na legislação, conforme documentação registrada no SICAF, que a situação do\nfornecedor no momento é a seguinte:\n\nDados do Fornecedor\n\nCND): 33.683.111/0006-03 DUNSG: 90*****97\n\nRazão Social: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)\nNome Fantasia: REGIONAL SALVADOR-BA\n\nSituação do Fornecedor: Credenciado Data de Vencimento do Cadastro: 15/09/2027\nNatureza Jurídica: EMPRESA PÚBLICA\n\nMEI: Não\n\nPorte da Empresa: Demais\n\nOcorrências e Impedimentos\nOcorrência: Nada Consta\n\nImpedimento de Licitar: Nada Consta\n\nNíveis cadastrados:\nAutomática: a certidão foi obtida através de integração direta com o sistema emissor. Manual: a certidão foi inserida\nmanualmente pelo fornecedor.\n\nI - Credenciamento\nII - Habilitação Jurídica\nIII - Regularidade Fiscal e Trabalhista Federal\n\nReceita Federal e PGEN Validade: 17/04/2027 Automática\n\nFGTS Validade: 16/11/2026 Automática\n\nTrabalhista (http://www.tst.jus.br/certidao) Validade: 17/04/2027 Automática\nIV - Regularidade Fiscal Estadual/Distrital e Municipal\n\nReceita Estadual/Distrital Validade: 26/12/2026\n\nReceita Municipal Validade: 18/11/2026\n\nVI - Qualificação Econômico-Financeira\nValidade: 30/06/2027\n\nEsta declaração é uma simples consulta e não tem efeito legal\n\nEmitido em: 27/10/2026 10:16 1 de 1\nCPF: 225.XXX.XXX-91 | Nome: EDSON DOMINGOS FERRÃO\nAss:",
+"leitura": "ocr",
+"validadeDoc": {
+"ate": "2027-09-15",
+"fonte": "documento"
+},
+"ver": "arquivos/1ddcd410d21c.pdf",
 "miniatura": "miniaturas/1ddcd410d21c.webp",
-"ver": "arquivos/1ddcd410d21c.pdf"
+"validade": {
+"ate": "2027-09-15",
+"fonte": "documento"
+}
 },
 {
 "id": "a70745b0b8e3",
@@ -730,14 +779,17 @@
 "primeiroVisto": "2026-10-29T19:47:40Z",
 "download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/MINAS%20GERAIS&files=CERTIDAO%20ESTADUAL%20DE%20MINAS%20GERAIS.pdf",
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/MINAS%20GERAIS",
-"texto": "",
-"leitura": "sem texto",
-"validadeDoc": null,
-"miniatura": "miniaturas/4d30944c043d.webp",
+"texto": "SECRETARIA DE ESTADO DE FAZENDA DE MINAS GERAIS\n\n \n\nData de emissão Data de validade\n\n19/10/2026 17/01/2027\nCertidão de Débitos Tributários Razão Social\n- SERVICO FEDERAL DE PROCESSAMENTO DE DADOS\nNegativa (SERPRO)\nCNPJ\n\n33.683.111/0007-94\n\n \n\nRessalvado o direito de a Fazenda Pública Estadual cobrar e inscrever quaisquer dívidas de responsabilidade do sujeito passivo acima\nidentificado que vierem a ser apuradas, é certificado que:\n\n1. Não constam débitos relativos a tributos administrados pela Fazenda Pública Estadual e/ou Advocacia Geral do Estado;\n\n2. No caso de utilização para lavratura de escritura pública ou registro de formal de partilha, de carta de ajudicação expedida em autos\nde inventário ou de arrolamento, de sentença em ação de separação judicial, divórcio ou de partilha de bens na união estável e de\nescritura pública de doação de bens imóveis, esta certidão somente terá validade se acompanhada da Certidão de Pagamento /\nDesoneração do ITCD, prevista no artigo 39 do Decreto 43.981/2005.\n\nCertidão válida para todos os estabelecimentos da empresa, alcançando débitos tributários do sujeito passivo em Fase Administrativa ou\ninscritos em Dívida Ativa.\n\n \n\nA autenticidade desta certidão pode ser confirmada no sítio da Secretaria de Estado de Fazenda de Minas Gerais, em:\nhttps://cdt.fazenda.mg.gov.br > Validar CDT\n\nCódigo de controle de autenticidade\nAC2A-E10C-70E1-623E-7952-1233-983A-6F00\n\n \n\nPágina 1 de 1",
+"leitura": "ocr",
+"validadeDoc": {
+"ate": "2026-10-19",
+"fonte": "documento"
+},
 "ver": "arquivos/4d30944c043d.pdf",
+"miniatura": "miniaturas/4d30944c043d.webp",
 "validade": {
-"ate": "2027-01-17",
-"fonte": "tabela de vencimentos"
+"ate": "2026-10-19",
+"fonte": "documento"
 }
 },
 {
@@ -861,14 +913,17 @@
 "primeiroVisto": "2026-10-29T19:47:38Z",
 "download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/PERNAMBUCO&files=CERTIDAO%20ESTADUAL%20DE%20PERNAMPUCO.pdf",
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/PERNAMBUCO",
-"texto": "",
-"leitura": "sem texto",
-"validadeDoc": null,
-"miniatura": "miniaturas/88354ce214c5.webp",
+"texto": "Secretaria 4\nda Fazenda RU\n\n \n\nPS\n\nCERTIDÃO DE REGULARIDADE FISCAL\n\n \n\nNúmero da Certidão 2026.000021344889-97 Data de Emissão: 27/10/2026\nDADOS DO REQUERENTE\n\nCNPJ: 33.683.111/0005-22\n\nRazão Social: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)\n\nEndereço: AVENIDA PARNAMIRIM N. 295,\n\nPARNAMIRIM, RECIFE, PE, CEP: 52.060-000 - BRASIL\n\n \n\nCertificamos, observadas as disposições da legislação vigente e de acordo com os registros existentes neste órgão,\nque o requerente acima identificado está em situação REGULAR perante a Fazenda Pública Estadual. A referida\nidentificação não pertence a contribuinte com inscrição ativa no Cadastro de Contribuintes do Estado de Pernambuco.\n\nA presente certidão não compreende débitos cuja exigibilidade esteja suspensa, nem exclui o direito da Fazenda\nPública Estadual, a qualquer tempo, cobrar valores a ela porventura devidos pelo referido requerente.\n\nEsta certidão é válida até 24/01/2027 devendo ser confirmada sua autenticidade através do serviço \"ARE VIRTUAL\"\nna página www.sefaz.pe.gov.br.\n\nInválida para licitação no que se refere ao fornecimento de mercadorias ou prestação de serviços de\ntransporte interestadual e intermunicipal ou comunicação não compreendidos na competência tributária dos\nmunicípios se o requerente supracitado estiver localizado em Pernambuco.\n\n \n\nOBSERVAÇÕES: NÃO INFORMADO\n\nPágina 1 de 1\nEmitido em: 27/10/2026 09:18:24",
+"leitura": "ocr",
+"validadeDoc": {
+"ate": "2027-01-24",
+"fonte": "documento"
+},
 "ver": "arquivos/88354ce214c5.pdf",
+"miniatura": "miniaturas/88354ce214c5.webp",
 "validade": {
 "ate": "2027-01-24",
-"fonte": "tabela de vencimentos"
+"fonte": "documento"
 }
 },
 {
@@ -1419,11 +1474,11 @@
 "primeiroVisto": "2026-10-29T19:47:26Z",
 "download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/FLORIANOP%C3%93LIS&files=CERTIDAO%20MUNICIPAL%20REGIONAL%20FLORIANOPOLIS-SC.pdf",
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/FLORIANOP%C3%93LIS",
-"texto": "",
-"leitura": "sem texto",
+"texto": "RAD Data: 15/10/2026 09h08min\n\nValidade\n\no Número\n368045 12/02/2027\n\n \n\nCERTIDÃO NEGATIVA DE DÉBITOS\n\nNome / Razão Social\n\nSERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO) CNPJ: 33683111001928\nAviso\nSem débitos pendentes até a presente data.\nComprovação Junto à Finalidade\nMensagem\n\n \n\nCertificamos que até a presente data não constam débitos tributários relativos à inscrição\nabaixo caracterizada.\n\nA Fazenda Municipal se reserva o direito de cobrar débitos que venham a ser constatados,\n\nmesmo se referentes a períodos compreendidos nesta certidão.\n\nCódigo de Controle\n\nCWUIKZPZ718RKJY1\n\n \n\nA validade do documento pode ser consultada no site da prefeitura por meio do código de controle informado.\n\nhttps://Awww.pmf.sc.gov.br/\nFlorianópolis (SC), 15 de Outubro de 2026\n\n \n\nTENENTE SILVEIRA, 60 - Centro\nFlorianópolis (SC) - CEP: 88010300 - Fone:4832515900\n\nPágina 1 de 1",
+"leitura": "ocr",
 "validadeDoc": null,
-"miniatura": "miniaturas/63c6e668b81f.webp",
 "ver": "arquivos/63c6e668b81f.pdf",
+"miniatura": "miniaturas/63c6e668b81f.webp",
 "validade": {
 "ate": "2027-02-12",
 "fonte": "tabela de vencimentos"
@@ -2110,11 +2165,11 @@
 "primeiroVisto": "2026-10-29T19:47:10Z",
 "download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/08%20-%20CADIN&files=CONSULTA%20CADIN%2029102026.pdf",
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/08%20-%20CADIN",
-"texto": "",
-"leitura": "sem texto",
+"texto": "Cadastro Informativo de Créditos Não Quitados do Setor Público Federal (CADIN)\nConsulta Contratante Emissão em 29/10/2026, 07:26\nParâmetros: CPF / CNPJ: 33.683.111/0001-07. Situação para Devedor Contumaz: REGULAR\n\nNenhum registro ativo localizado - Situação REGULAR\n\nA apresentação deste documento não dispensa a consulta ao Cadin a ser realizada pela Administração Pública no momento da operação a que se destina\nPágina 1 de 2\n\f\nCadastro Informativo de Créditos Não Quitados do Setor Público Federal (CADIN)\nConsulta Contratante Emissão em 29/10/2026, 07:26\nParâmetros: CPF / CNPJ: 33.683.111/0001-07. Situação para a Esfera Federal: REGULAR\n\nNenhum registro ativo localizado - Situação REGULAR\n\nCódigo de Validação: ZWY3Mjk3M2EyY22hMWQ3Yjg3NTZKZTAZZMESMTJKMTC4MWI3MDINZA3NTQ1YMZINK2OGYOZWZhOWZmNmVmMQ==\n\nPara validar esse documento acesse a opção Cadastro -> Validar Relatórios\n\nA apresentação deste documento não dispensa a consulta ao Cadin a ser realizada pela Administração Pública no momento da operação a que se destina\nPágina 2 de 2",
+"leitura": "ocr",
 "validadeDoc": null,
-"miniatura": "miniaturas/f0ff238225e4.webp",
-"ver": "arquivos/f0ff238225e4.pdf"
+"ver": "arquivos/f0ff238225e4.pdf",
+"miniatura": "miniaturas/f0ff238225e4.webp"
 },
 {
 "id": "ef197b568263",
@@ -2326,11 +2381,11 @@
 "primeiroVisto": "2026-10-29T19:47:04Z",
 "download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/15%20-%20TCU&files=CERTID%C3%83O%20NEGATIVA%20DE%20LICITANTES%20INIDONEO.pdf",
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/15%20-%20TCU",
-"texto": "",
-"leitura": "sem texto",
+"texto": "CERTIDÃO NEGATIVA DE LICITANTES INIDÔNEOS\n\nO Tribunal de Contas da União certifica, em 01/07/2026, que Serviço Federal de\nProcessamento de Dados, CNPJ: 33.683.111/0001-07, NAO CONSTA no cadastro de\nresponsáveis declarados inidôneos para participar de licitação na Administração Pública.\n\n0 O que significa não constar nesse cadastro?\n\nSignifica que não há decisões do TCU que impeçam a pessoa de participar de\nlicitações no âmbito da Administração Pública.\n\ne O cadastro não inclui:\n\n* Responsáveis ainda não notificados sobre a decisão;\n* Decisões ainda não transitadas em julgado*; e\n* Decisões anuladas ou suspensas pelo TCU ou pela Justiça.\n\n6 Base legal:\nArtigo 46 da Lei 8.443/1992 (Lei Orgânica do TCU)\n\n*O trânsito em julgado marca uma decisão como não mais sujeita a recursos com efeitos\nsuspensivos.",
+"leitura": "ocr",
 "validadeDoc": null,
-"miniatura": "miniaturas/59dd3276bc33.webp",
-"ver": "arquivos/59dd3276bc33.pdf"
+"ver": "arquivos/59dd3276bc33.pdf",
+"miniatura": "miniaturas/59dd3276bc33.webp"
 },
 {
 "id": "223de3136bba",
@@ -2651,11 +2706,11 @@
 "primeiroVisto": "2026-10-29T19:46:43Z",
 "download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/CNPJ%20SEDE%20REGIONAIS%20E%20ESCRIT%C3%93RIOS%20DO%20SERPRO&files=CNPJ%20ESCRIT%C3%93RIO%20DE%20MACEI%C3%93-AL.pdf",
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/CNPJ%20SEDE%20REGIONAIS%20E%20ESCRIT%C3%93RIOS%20DO%20SERPRO",
-"texto": "",
-"leitura": "sem texto",
+"texto": "Firefox\n\nlofl\n\nhttps://solucoes.receita.fazenda.gov.br/servicos/cnpjreva/Cnpjreva Co...\n\n \n\nREPÚBLICA FEDERATIVA DO BRASIL\n\nCADASTRO NACIONAL DA PESSOA JURÍDICA\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nas am Uosair COMPROVANTE DE INSCRIÇÃO E DE SITUAÇÃO densa\nFILIAL CADASTRAL\n\nNOME EMPRESARIAL\n\nSERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)\n\nTÍTULO DO ESTABELECIMENTO (NOME DE FANTASIA) PORTE\nESCRITORIO DE MACEIO-AL DEMAIS\nCÓDIGO E DESCRIÇÃO DA ATIVIDADE ECONÔMICA PRINCIPAL\n\n62.09-1-00 - Suporte técnico, manutenção e outros serviços em tecnologia da informação\n\nCÓDIGO E DESCRIÇÃO DAS ATIMDADES ECONÔMICAS SECUNDÁRIAS\n\n62.01-5-01 - Desenvolvimento de programas de computador sob encomenda\n\n62.02-3-00 - Desenvolvimento e licenciamento de programas de computador customizáveis\n\n62.03-1-00 - Desenvolvimento e licenciamento de programas de computador não-customizáveis\n\n62.04-0-00 - Consultoria em tecnologia da informação\n\n63.11-9-00 - Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet\nCÓDIGO E DESCRIÇÃO DA NATUREZA JURÍDICA\n\n2011 - Empresa Pública\n\nLOGRADOURO NÚMERO COMPLEMENTO\n\nPC DOM PEDRO II 16 1 ANDAR\n\nCEP BAIRRO/ISTRITO MUNICÍPIO UF\n57.020-130 CENTRO MACEIO AL\nENDEREÇO ELETRÔNICO TELEFONE\n\nENTE FEDERATIVO RESPONSÁVEL (EFR)\n\nSITUAÇÃO CADASTRAL DATA DA SITUAÇÃO CADASTRAL\nATIVA 22/05/2004\n\nMOTIVO DE SITUAÇÃO CADASTRAL\n\nSITUAÇÃO ESPECIAL DATADASITUAÇÃO ESPECIAL\n\n \n\n \n\n \n\n \n\n \n\nAprovado pela Instrução Normativa RFB nº 2.119, de 06 de dezembro de 2022.\n\nEmitido no dia 20/10/2023 às 14:25:02 (data e hora de Brasília).\n\nPágina: 11\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n20/10/2023 14:26",
+"leitura": "ocr",
 "validadeDoc": null,
-"miniatura": "miniaturas/c1fba6d36450.webp",
-"ver": "arquivos/c1fba6d36450.pdf"
+"ver": "arquivos/c1fba6d36450.pdf",
+"miniatura": "miniaturas/c1fba6d36450.webp"
 },
 {
 "id": "12f229652e1d",
@@ -3001,11 +3056,11 @@
 "primeiroVisto": "2026-10-29T19:46:54Z",
 "download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/CNPJ%20SEDE%20REGIONAIS%20E%20ESCRIT%C3%93RIOS%20DO%20SERPRO&files=CNPJ%20REGIONAL%20FLORIAN%C3%93POLIS-SC.pdf",
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/CNPJ%20SEDE%20REGIONAIS%20E%20ESCRIT%C3%93RIOS%20DO%20SERPRO",
-"texto": "",
-"leitura": "sem texto",
+"texto": "Firefox\n\nlofl\n\nhttps://solucoes.receita.fazenda.gov.br/servicos/cnpjreva/Cnpjreva Co...\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nCADASTRO NACIONAL DA PESSOA JURÍDICA\nNÚMERO DE INSCRIÇÃO À ÃO | DATADE ABERTURA\n33.683.111/0019.28 COMPROVANTE DE INSCRIÇÃO E DE SITUAÇÃO | 53/04/1978\nFILIAL CADASTRAL\nNOME EMPRESARIAL\nSERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)\nTÍTULO DO ESTABELECIMENTO (NOME DE FANTASIA) PORTE\nREGIONAL FLORIANOPOLI-SC DEMAIS\nCÓDIGO E DESCRIÇÃO DA ATIVIDADE ECONÔMICA PRINCIPAL\n62.04-0-00 - Consultoria em tecnologia da informação\nCÓDIGO E DESCRIÇÃO DAS ATIMDADES ECONÔMICAS SECUNDÁRIAS\n62.01-5-01 - Desenvolvimento de programas de computador sob encomenda\n62.02-3-00 - Desenvolvimento e licenciamento de programas de computador customizáveis\n62.03-1-00 - Desenvolvimento e licenciamento de programas de computador não-customizáveis\n62.09-1-00 - Suporte técnico, manutenção e outros serviços em tecnologia da informação\n63.11-9-00 - Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet\nCÓDIGO E DESCRIÇÃO DANATUREZA JURÍDICA\n2011 - Empresa Pública\nLOGRADOURO NÚMERO COMPLEMENTO\nROD VIRGILIO VARZEA 587 ANDAR PISO L2\nGEP BARRONDISTRITO MUNICÍPIO UF\n88.032-000 SACO GRANDE FLORIANOPOLIS sc\nENDEREÇO ELETRÔNICO TELEFONE\nLUIZ.TOMEQSERPRO.GOV.BR (48) 3231-8997/ (48) 3231-8993\nENTE FEDERATIVO RESPONSÁVEL (EFR)\nSITUAÇÃO CADASTRAL DATADA SITUAÇÃO CADASTRAL\nATIVA 22/05/2004\nMOTIVO DE SITUAÇÃO CADASTRAL\nSITUAÇÃO ESPECIAL DATADASITUAÇÃO ESPECIAL\n\n \n\n \n\nAprovado pela Instrução Normativa RFB nº 2.119, de 06 de dezembro de 2022.\n\nEmitido no dia 23/10/2023 às 09:22:11 (data e hora de Brasília).\n\nPágina: 11\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n23/10/2023 09:24",
+"leitura": "ocr",
 "validadeDoc": null,
-"miniatura": "miniaturas/7268aa658322.webp",
-"ver": "arquivos/7268aa658322.pdf"
+"ver": "arquivos/7268aa658322.pdf",
+"miniatura": "miniaturas/7268aa658322.webp"
 },
 {
 "id": "3d32f3a6e143",
