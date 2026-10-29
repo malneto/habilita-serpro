@@ -188,3 +188,5 @@ button:focus-visible, a:focus-visible, select:focus-visible { outline: 3px solid
 .doc-corpo { min-width: 0; }
 .sem-mini { display: grid !important; place-items: center; font-size: 2rem; }
 @keyframes ouvir { 0% { box-shadow: 0 0 0 0 rgba(255, 205, 7, .6); } 100% { box-shadow: 0 0 0 30px transparent; } }
+.kit-sugerido { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; justify-content: space-between; padding: 14px 16px; border-radius: var(--raio); background: color-mix(in srgb, var(--amarelo) 16%, var(--cartao)); border: 1px solid color-mix(in srgb, var(--amarelo) 60%, var(--cartao)); box-shadow: var(--sombra); }
+.kit-sugerido b { display: block; font-size: 1.02rem; }

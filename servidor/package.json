@@ -1,0 +1,10 @@
+{
+  "name": "habilita-api",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.110.0",
+    "@vercel/blob": "^2.8.2",
+    "zod": "^4.1.0"
+  }
+}

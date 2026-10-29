@@ -268,6 +268,18 @@ function telaKit() {
 }
 const textoKit = (docs) => `Documentos de habilitação do Serpro:\n${docs.map((d) => `• ${d.titulo}${d.sit ? ` (${d.sit.texto.toLowerCase()})` : ""}\n  ${d.urlExterna || d.download}`).join("\n")}`;
 
+// "documentos para licitação em Natal": pedido de kit + local → oferece o kit pronto (sem IA)
+function kitNaFrase(q) {
+  if (!/licita|kit|contrata|habilita|pregao|todos os documentos|documentacao completa|documentos necessarios/.test(base(q))) return null;
+  const locais = locaisDoKit();
+  const t = " " + base(q).replace(/[^a-z0-9]+/g, " ") + " ";
+  const cidade = locais.slice().sort((a, b) => b.cidade.length - a.cidade.length).find((l) => t.includes(" " + base(l.cidade) + " "));
+  if (cidade) return cidade;
+  const uf = ufNaFrase(q);
+  if (!uf) return null;
+  return locais.find((l) => l.uf === uf && base(l.cidade) === base(UFS[uf][1])) || locais.find((l) => l.uf === uf) || null;
+}
+
 // ---------- desenho ----------
 const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
 
@@ -377,6 +389,7 @@ function desenhar() {
   conteudo.innerHTML = `<section>
     <div class="resultado-topo"><h2>${titulo}</h2>${chips}${zip}<button class="btn" id="voltar">Início</button></div>
   </section>
+  ${q && kitNaFrase(q) ? (() => { const l = kitNaFrase(q); return `<section class="kit-sugerido"><div><b>🧰 Kit da licitação em ${esc(l.cidade)}/${l.uf}</b><span class="meta">SICAF, certidões, CNPJ, estatuto e balanço — tudo junto, com a validade de cada um.</span></div><button class="btn amarelo" data-montar="${esc(l.cidade)}|${l.uf}">Montar kit</button></section>`; })() : ""}
   ${q ? cartaoIA(q) : ""}
   <section class="lista">${lista.length ? lista.map(cartao).join("") : semResultado(q)}</section>`;
   $("#anuncio").textContent = titulo.replace(/[“”]/g, "");
@@ -424,13 +437,14 @@ document.addEventListener("keydown", (e) => { if (e.key === "/" && document.acti
 conteudo.addEventListener("click", (e) => {
   const abrir = e.target.closest("[data-abrir]");
   if (abrir) { const d = PORID[abrir.dataset.abrir]; registrar({ tipo: "abriu", q: campo.value.trim(), doc: d?.titulo }); return; }
-  const alvo = e.target.closest("[data-cat],[data-uf],[data-sit],[data-tirar],[data-kit],[data-kit-todos],[data-copiar],[data-q],[data-ia],#voltar,#montarKit,#kitBaixar,#kitCopiar");
+  const alvo = e.target.closest("[data-montar],[data-cat],[data-uf],[data-sit],[data-tirar],[data-kit],[data-kit-todos],[data-copiar],[data-q],[data-ia],#voltar,#montarKit,#kitBaixar,#kitCopiar");
   if (!alvo) return;
   if (alvo.id === "voltar") { campo.value = ""; filtros = { categoria: "", uf: "", situacao: "" }; tela = "busca"; atualizarKit(); desenhar(); window.scrollTo({ top: 0, behavior: "smooth" }); return; }
   if (alvo.id === "montarKit") { const v = $("#localKit").value; if (!v) { avisar("Escolha a cidade da contratação."); $("#localKit").focus(); return; } const [c, uf] = v.split("|"); montarKit(c, uf); return; }
   if (alvo.id === "kitBaixar") return baixarKit();
   if (alvo.id === "kitCopiar") return copiar(textoKit([...kit].map((id) => PORID[id]).filter(Boolean)), "Links do kit copiados");
   if (alvo.dataset.ia) return perguntarIA(campo.value.trim());
+  if (alvo.dataset.montar) { const [c, uf] = alvo.dataset.montar.split("|"); return montarKit(c, uf); }
   if (alvo.dataset.cat) { filtros.categoria = alvo.dataset.cat; confirmarBusca(); }
   else if (alvo.dataset.uf) { filtros.uf = alvo.dataset.uf; confirmarBusca(); }
   else if (alvo.dataset.sit) { filtros.situacao = alvo.dataset.sit; confirmarBusca(); }
