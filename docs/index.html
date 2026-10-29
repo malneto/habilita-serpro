@@ -5,54 +5,76 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Habilita · Documentação Serpro</title>
   <meta name="description" content="Encontre em segundos as certidões e documentos de habilitação do Serpro.">
-  <!-- protótipo: fora dos buscadores -->
-  <meta name="robots" content="noindex, nofollow">
+  <!-- fora dos buscadores (Google, Bing…) enquanto for teste; robots.txt também bloqueia -->
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta name="googlebot" content="noindex, nofollow">
   <meta name="theme-color" content="#003da5">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Habilita">
+  <link rel="apple-touch-icon" href="icone-192.png">
   <link rel="icon" href="icone.svg" type="image/svg+xml">
-  <link rel="manifest" href="manifest.webmanifest">
-  <!-- fonte Rawline do design system gov.br, servida pelo Serpro -->
+  <!-- o manifesto (app instalável) é ligado pelo app.js só no celular; no computador fica site comum -->
   <link rel="stylesheet" href="https://cdngovbr-ds.estaleiro.serpro.gov.br/design-system/fonts/rawline/css/rawline.css">
   <link rel="stylesheet" href="estilo.css">
 </head>
 <body>
+  <a class="pular" href="#conteudo">Ir para os resultados</a>
   <header class="topo">
     <div class="topo-conteudo">
-      <a class="marca" href="./" aria-label="Habilita — início">
-        <img src="icone.svg" alt="" width="40" height="40">
-        <span><strong>Habilita</strong><small>Documentação de habilitação do Serpro</small></span>
-      </a>
-      <h1 class="chamada">Encontre a certidão ou o documento que você precisa.</h1>
+      <div class="topo-linha">
+        <a class="marca" href="./" aria-label="Habilita — início">
+          <img src="icone.svg" alt="" width="40" height="40">
+          <span><strong>Habilita</strong><small>Documentação de habilitação do Serpro</small></span>
+        </a>
+        <button class="instalar" id="instalar" hidden>📲 Instalar</button>
+      </div>
+      <h1 class="chamada">Qual documento do Serpro você precisa?</h1>
+      <p class="subchamada">Fale ou digite. Ex.: <em>“certidão estadual de Pernambuco”</em>, <em>“FGTS”</em>, <em>“documentos para licitação em Recife”</em>.</p>
       <form class="busca" id="formBusca" role="search" autocomplete="off">
         <svg class="lupa" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M20 20l-4.2-4.2" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
-        <input id="q" type="search" placeholder="Ex.: certidão estadual de Pernambuco" aria-label="Buscar documentos" enterkeyhint="search">
-        <button type="button" class="limpar" id="limpar" aria-label="Limpar" hidden>✕</button>
-        <button type="button" class="mic" id="mic" aria-label="Buscar por voz" title="Buscar por voz">
+        <input id="q" type="search" placeholder="Buscar documento…" aria-label="Buscar documentos" enterkeyhint="search">
+        <button type="button" class="limpar" id="limpar" aria-label="Limpar busca" hidden>✕</button>
+        <button type="button" class="mic" id="mic" aria-label="Buscar falando" title="Buscar falando">
           <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="9" y="3" width="6" height="11" rx="3" fill="currentColor"/><path d="M6 11a6 6 0 0 0 12 0M12 17v3" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
         </button>
       </form>
-      <p class="ouvindo" id="ouvindo" hidden><span class="onda"></span> Ouvindo… fale o que você procura</p>
       <div class="atalhos" id="atalhos"></div>
       <p class="meta-topo" id="metaTopo"></p>
     </div>
   </header>
 
-  <main id="conteudo" class="conteudo">
+  <main id="conteudo" class="conteudo" tabindex="-1">
     <p class="carregando">Carregando documentos…</p>
   </main>
+  <p class="so-leitor" id="anuncio" aria-live="polite"></p>
+
+  <!-- tela de voz -->
+  <div class="voz" id="voz" hidden role="dialog" aria-modal="true" aria-label="Busca por voz">
+    <button class="voz-fechar" id="vozFechar" aria-label="Fechar">✕</button>
+    <p class="voz-titulo" id="vozTitulo">Pode falar…</p>
+    <button class="voz-mic" id="vozMic" aria-label="Parar de ouvir">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="9" y="3" width="6" height="11" rx="3" fill="currentColor"/><path d="M6 11a6 6 0 0 0 12 0M12 17v3" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+    </button>
+    <p class="voz-texto" id="vozTexto">Ex.: “certidão do FGTS”</p>
+    <p class="voz-dica">Toque no microfone quando terminar</p>
+  </div>
 
   <div class="kit" id="kit" hidden>
     <span id="kitTexto"></span>
     <div class="kit-botoes">
-      <button class="btn claro" id="kitCopiar">Copiar links</button>
-      <button class="btn amarelo" id="kitBaixar">Baixar todos</button>
+      <button class="btn amarelo" id="kitVer">Ver kit</button>
       <button class="btn fantasma" id="kitLimpar" aria-label="Esvaziar kit">✕</button>
     </div>
   </div>
   <div class="aviso" id="aviso" role="status" hidden></div>
+  <div class="dica-ios" id="dicaIos" hidden>
+    <span>Para instalar: toque em <b>Compartilhar</b> <span aria-hidden="true">⬆️</span> e depois em <b>Adicionar à Tela de Início</b>.</span>
+    <button id="dicaIosFechar" aria-label="Fechar">✕</button>
+  </div>
 
   <footer class="rodape">
     <p>Fonte: <a id="linkFonte" href="#" target="_blank" rel="noopener">pasta pública do SerproDrive (SUPCO Tributário)</a>. O Habilita confere a pasta a cada hora e se atualiza sozinho.</p>
-    <p class="meta">Protótipo em teste · busca e voz rodam no seu navegador · sem cadastro</p>
+    <p class="meta">Protótipo em teste · busca e voz rodam no seu navegador, sem cadastro · as buscas são registradas de forma anônima para melhorar o site</p>
   </footer>
 
   <script src="minisearch.js"></script>

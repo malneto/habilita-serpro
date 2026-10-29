@@ -140,3 +140,51 @@ mark { background: color-mix(in srgb, var(--amarelo) 55%, transparent); color: i
 .conteudo > * { min-width: 0; }   /* a faixa "Chegou agora" rola por dentro, sem alargar a página */
 .recente { text-decoration: none; }
 body { overflow-x: hidden; }
+
+/* ---------- partes novas: instalar, voz, kit da licitação, IA, acessibilidade ---------- */
+.topo-linha { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+.instalar { border: 0; border-radius: 999px; padding: 8px 14px; background: var(--amarelo); color: var(--marinho); font-weight: 800; }
+.chamada { margin-bottom: 6px; }
+.subchamada { margin: 0 0 16px; opacity: .9; font-size: .95rem; }
+.subchamada em { font-style: normal; font-weight: 700; }
+.so-leitor { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.pular { position: absolute; left: -999px; top: 8px; background: #fff; color: var(--azul); padding: 8px 12px; border-radius: 8px; z-index: 50; }
+.pular:focus { left: 8px; }
+button:focus-visible, a:focus-visible, select:focus-visible { outline: 3px solid var(--amarelo); outline-offset: 2px; }
+
+.voz { position: fixed; inset: 0; z-index: 60; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 18px; padding: 24px;
+  color: #fff; text-align: center; background: radial-gradient(600px 400px at 50% 40%, rgba(21, 91, 203, .7), transparent 70%), linear-gradient(160deg, var(--marinho), var(--azul)); }
+.voz-fechar { position: absolute; top: max(16px, env(safe-area-inset-top)); right: 16px; width: 44px; height: 44px; border-radius: 50%; border: 0; background: rgba(255, 255, 255, .15); color: #fff; font-size: 1.1rem; }
+.voz-titulo { margin: 0; font-size: 1.1rem; opacity: .9; }
+.voz-mic { width: 120px; height: 120px; border-radius: 50%; border: 0; background: var(--amarelo); color: var(--marinho); display: grid; place-items: center; animation: ouvir 1.6s infinite; }
+.voz-mic svg { width: 54px; height: 54px; }
+.voz-texto { margin: 0; font-size: clamp(1.3rem, 5vw, 2rem); font-weight: 800; max-width: 680px; min-height: 2.6em; }
+.voz-dica { margin: 0; opacity: .75; font-size: .9rem; }
+
+.kit-montar { display: grid; gap: 12px; padding: 16px; border-radius: var(--raio); color: #fff; box-shadow: var(--sombra);
+  background: radial-gradient(500px 200px at 100% 0%, rgba(255, 205, 7, .25), transparent 60%), linear-gradient(135deg, var(--azul), var(--azul-3)); }
+.kit-montar h2 { font-size: 1.15rem; }
+.kit-montar p { margin: 4px 0 0; opacity: .92; font-size: .92rem; }
+.kit-montar-campo { display: flex; gap: 8px; flex-wrap: wrap; }
+.kit-montar select { flex: 1; min-width: 200px; font: inherit; padding: 11px 12px; border-radius: 12px; border: 0; background: #fff; color: #0f1b33; }
+@media (min-width: 760px) { .kit-montar { grid-template-columns: 1.2fr 1fr; align-items: center; } }
+
+.kit-topo { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px; align-items: center; background: var(--cartao); border: 1px solid var(--borda); border-radius: var(--raio); padding: 14px; box-shadow: var(--sombra); }
+.kit-topo h2 { font-size: 1.15rem; }
+.alerta { margin: 0; padding: 10px 14px; border-radius: 12px; background: color-mix(in srgb, var(--vermelho) 10%, var(--cartao)); color: var(--vermelho); font-weight: 700; }
+
+.ia-chamada { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
+.btn.ia { background: linear-gradient(135deg, var(--marinho), var(--azul-3)); border: 0; color: #fff; }
+.ia-cartao { background: linear-gradient(180deg, color-mix(in srgb, var(--azul-3) 9%, var(--cartao)), var(--cartao)); border: 1px solid color-mix(in srgb, var(--azul-3) 35%, var(--cartao)); border-radius: var(--raio); padding: 14px 16px; box-shadow: var(--sombra); }
+.ia-rotulo { margin: 0 0 6px; font-weight: 800; color: var(--azul-3); }
+.ia-texto { margin: 0; font-size: 1.02rem; }
+.ia-docs { margin: 10px 0 12px; padding-left: 18px; display: grid; gap: 6px; }
+.ia-docs a { color: var(--texto); }
+.ia-docs .selo { margin-left: 6px; }
+.carregando-ia p { margin: 0; color: var(--azul-3); font-weight: 700; animation: pulsar 1.2s infinite; }
+
+.dica-ios { position: fixed; left: 12px; right: 12px; bottom: max(14px, env(safe-area-inset-bottom)); z-index: 25; display: flex; gap: 10px; align-items: center; padding: 12px 14px; border-radius: 14px; background: var(--cartao); color: var(--texto); border: 1px solid var(--borda); box-shadow: var(--sombra); font-size: .92rem; }
+.dica-ios button { border: 0; background: none; color: var(--suave); font-size: 1rem; }
+.doc-corpo { min-width: 0; }
+.sem-mini { display: grid !important; place-items: center; font-size: 2rem; }
+@keyframes ouvir { 0% { box-shadow: 0 0 0 0 rgba(255, 205, 7, .6); } 100% { box-shadow: 0 0 0 30px transparent; } }
