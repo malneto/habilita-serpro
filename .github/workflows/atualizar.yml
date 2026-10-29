@@ -1,0 +1,52 @@
+name: Atualizar e publicar
+
+# A cada hora o robô confere a pasta pública do SerproDrive; se algo mudou, guarda o índice e republica o site.
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: habilita
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.publicar.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Leitura de imagem (PDF escaneado)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-por
+      - run: pip install -q pypdf pypdfium2 pillow openpyxl
+      - uses: actions/cache@v4
+        with:
+          path: .cache
+          key: arquivos-${{ github.run_id }}
+          restore-keys: arquivos-
+      - name: Sincronizar com a pasta pública
+        run: python3 sync/sincronizar.py
+      - name: Guardar o índice
+        run: |
+          git config user.name "habilita-robo"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site
+          git diff --cached --quiet || (git commit -q -m "Atualiza documentos da pasta" && git push -q)
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: publicar
+        uses: actions/deploy-pages@v4
