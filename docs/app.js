@@ -106,6 +106,13 @@ async function iniciar() {
     d.sit = situacao(d);
     PORID[d.id] = d;
   });
+  // vencido sai do site: o robô tira a cada hora; o que vencer depois da última conferência sai já na virada do dia
+  const venceuHoje = DADOS.documentos.filter((d) => d.sit?.tipo === "vencida");
+  DADOS.foraPorVencimento = [...(DADOS.foraPorVencimento || []), ...venceuHoje.map((d) => ({ titulo: d.titulo, venceu: d.validade.ate }))];
+  DADOS.documentos = DADOS.documentos.filter((d) => d.sit?.tipo !== "vencida");
+  const naLista = new Set(DADOS.documentos.map((d) => d.id));
+  DADOS.categorias = DADOS.categorias.map((c) => ({ ...c, total: DADOS.documentos.filter((d) => d.categoria === c.id).length })).filter((c) => c.total > 0);
+  [...kit].forEach((id) => { if (!naLista.has(id)) kit.delete(id); });
   BUSCA = new MiniSearch({
     idField: "id",
     fields: ["titulo", "categoriaTexto", "local", "pastasTexto", "texto"],
@@ -348,11 +355,11 @@ function inicio() {
     </div>
   </section>
   <section>
-    <div class="secao-titulo"><h2>Situação das certidões</h2><span class="meta">${com.length} com validade</span></div>
+    <div class="secao-titulo"><h2>Situação das certidões</h2><span class="meta">só aparecem documentos dentro da validade</span></div>
     <div class="situacao">
       <button class="tile ok" data-sit="ok"><strong>${n("ok")}</strong><span>válidas</span></button>
       <button class="tile vence" data-sit="vence"><strong>${n("vence")}</strong><span>vencem em até 15 dias</span></button>
-      <button class="tile vencida" data-sit="vencida"><strong>${n("vencida")}</strong><span>vencidas</span></button>
+      <div class="tile vencida" title="${esc((DADOS.foraPorVencimento || []).map((x) => x.titulo).join(", "))}"><strong>${(DADOS.foraPorVencimento || []).length}</strong><span>vencidas, retiradas do site</span></div>
     </div>
   </section>
   <section>

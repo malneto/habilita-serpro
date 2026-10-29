@@ -309,6 +309,7 @@ def main():
             vencimentos = tabela_vencimentos(destino)
 
     documentos, novos, reaproveitados = [], 0, 0
+    fora_por_vencimento = []
     for i in arquivos:
         caminho = i["caminho"]
         nome = caminho.rsplit("/", 1)[1]
@@ -375,6 +376,10 @@ def main():
                 validade = {"ate": ate, "fonte": "tabela de vencimentos"}
         if validade:
             doc["validade"] = validade
+        # vencido não vai para o site (nem a cópia do PDF); volta sozinho quando a versão renovada entrar na pasta
+        if validade and validade["ate"] < HOJE.isoformat():
+            fora_por_vencimento.append({"titulo": doc["titulo"], "venceu": validade["ate"], "categoria": cat_id})
+            continue
         documentos.append(doc)
 
     # limpa cópias de arquivos que saíram da pasta
@@ -402,6 +407,7 @@ def main():
         "fonte": {"nome": "SUPCO_TRIBUTARIO_DOCUMENTAÇÃO", "url": f"{BASE}/s/{TOKEN}", "zip": f"{BASE}/s/{TOKEN}/download"},
         "categorias": categorias,
         "documentos": documentos,
+        "foraPorVencimento": sorted(fora_por_vencimento, key=lambda x: x["venceu"]),
     }
     novo_json = json.dumps(saida, ensure_ascii=False, indent=0, sort_keys=True)  # ordem fixa: só muda o que mudou de fato
     # só regrava se algo além do horário mudou (evita commit a cada hora sem novidade)
@@ -412,7 +418,7 @@ def main():
             return
     DADOS.write_text(novo_json, "utf-8")
     com_validade = sum(1 for d in documentos if d.get("validade"))
-    print(f"ok: {len(documentos)} documentos ({novos} lidos, {reaproveitados} reaproveitados), {com_validade} com validade")
+    print(f"ok: {len(documentos)} documentos ({novos} lidos, {reaproveitados} reaproveitados), {com_validade} com validade, {len(fora_por_vencimento)} fora por vencimento")
 
 
 if __name__ == "__main__":
