@@ -366,6 +366,13 @@ def main():
 
         # validade: o documento manda; a planilha completa quando o PDF não traz a data
         validade = doc.get("validadeDoc")
+        data_tabela = None
+        if cat_id in ("CERTIDAO DE REGULARIDADE MUNICIPAL", "CERTIDAO DE REGULARIDADE ESTADUAL") and vencimentos:
+            secao_t = "municipal" if "MUNICIPAL" in cat_id else "estadual"
+            alvo_t = chave(cidade or "") if secao_t == "municipal" else chave(UFS[uf][0] if uf else "")
+            if "SEDE" in sem_acento(caminho).upper() and secao_t == "municipal":
+                alvo_t = "SERPROSEDE"
+            data_tabela = vencimentos.get((secao_t, alvo_t))
         if not validade and cat_id in ("CERTIDAO DE REGULARIDADE MUNICIPAL", "CERTIDAO DE REGULARIDADE ESTADUAL") and vencimentos:
             secao = "municipal" if "MUNICIPAL" in cat_id else "estadual"
             alvo = chave(cidade or "") if secao == "municipal" else chave(UFS[uf][0] if uf else "")
@@ -378,7 +385,8 @@ def main():
             doc["validade"] = validade
         # vencido não vai para o site (nem a cópia do PDF); volta sozinho quando a versão renovada entrar na pasta
         if validade and validade["ate"] < HOJE.isoformat():
-            fora_por_vencimento.append({"titulo": doc["titulo"], "venceu": validade["ate"], "categoria": cat_id})
+            fora_por_vencimento.append({"titulo": doc["titulo"], "venceu": validade["ate"], "categoria": cat_id, "pasta": pasta,
+                                        "abrirPasta": doc["abrirPasta"], "planilhaDiz": data_tabela if data_tabela and data_tabela > validade["ate"] else None})
             continue
         documentos.append(doc)
 
