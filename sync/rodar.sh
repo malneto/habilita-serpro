@@ -9,7 +9,8 @@ export LD_LIBRARY_PATH="$T/usr/lib/x86_64-linux-gnu${LD_LIBRARY_PATH:+:$LD_LIBRA
 export TESSDATA_PREFIX="$T/usr/share/tesseract-ocr/4.00/tessdata"
 echo "== $(date '+%d/%m %H:%M')"
 python3 sync/sincronizar.py
-git add docs
+# só o que o robô gera: nunca leva junto edição em andamento do site
+git add docs/dados.json docs/arquivos docs/miniaturas
 if ! git diff --cached --quiet; then
   git commit -q -m "Atualiza documentos da pasta ($(date '+%d/%m %H:%M'))"
   ok=0
