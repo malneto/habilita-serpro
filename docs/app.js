@@ -33,6 +33,7 @@ const SINONIMOS = {
   sicaf: "cadastramento fornecedores credenciado", fornecedor: "sicaf", cadastro: "sicaf cadastrais",
   municipal: "municipio prefeitura iss", prefeitura: "municipal", iss: "municipal", estadual: "estado icms sefaz", icms: "estadual", sefaz: "estadual",
   lei: "leis criacao", leis: "lei criacao", criacao: "lei", menor: "menores declaracao", menores: "declaracao menor",
+  infantil: "menores menor declaracao contratacao", crianca: "menores menor declaracao", adolescente: "menores menor declaracao", aprendiz: "menores declaracao",
   negativa: "certidao", cnd: "certidao negativa", regularidade: "certidao regular", vencimento: "validade tabela", validade: "vencimento",
   cadin: "cadin", cadastral: "cadastrais dados", dados: "cadastrais",
 };
