@@ -34,7 +34,7 @@
 "id": "CERTIDAO DE REGULARIDADE MUNICIPAL",
 "nome": "Certidão municipal",
 "ordem": "04 - CERTIDÃO DE REGULARIDADE MUNICIPAL",
-"total": 27
+"total": 26
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/05%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20FGTS%20%28CAIXA%29",
@@ -1606,36 +1606,6 @@
 "fonte": "documento"
 },
 "ver": "arquivos/01a5d8d28465.pdf"
-},
-{
-"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/NATAL",
-"arquivo": "CERTIDAO MUNICIPAL ESCRITORIO DE NATAL-RN.pdf",
-"caminho": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/NATAL/CERTIDAO MUNICIPAL ESCRITORIO DE NATAL-RN.pdf",
-"categoria": "CERTIDAO DE REGULARIDADE MUNICIPAL",
-"cidade": "Natal",
-"download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/NATAL&files=CERTIDAO%20MUNICIPAL%20ESCRITORIO%20DE%20NATAL-RN.pdf",
-"etag": "f908b6f88bf89db38dbf862ebf6c5b44",
-"id": "0d98ac845e9d",
-"leitura": "texto",
-"miniatura": "miniaturas/0d98ac845e9d.webp",
-"modificadoEm": "2026-10-02T10:20:46Z",
-"pasta": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/NATAL",
-"pastas": [
-"04 - CERTIDÃO DE REGULARIDADE MUNICIPAL",
-"NATAL"
-],
-"primeiroVisto": "2026-10-29T19:47:22Z",
-"tamanho": 12632,
-"texto": "SEFIN - SECRETARIA MUNICIPAL DE FINANÇAS\nCPF/CNPJ: Nome/Razão Social:\nContribuinte:\n33.683.111/0029-08 SERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)\nNº da Certidão: Observação:Código de Validação:\n4346600 202972937785\nPrefeitura Municipal do Natal\nA validade desta certidão deve ser verificada utilizando o código ao lado, pela\ninternet, no endereço www.natal.rn.gov.br/sefin\nSituação Cadastral: EMPRESA COM INSCRIÇÃO MOBILIÁRIA ATIVA NO MUNICÍPIO\nCertidão Negativa de Débitos para com a Fazenda Municipal\nInscrições Mobiliárias Ativas: 106.166-6 - 33.683.111/0029-08 Certificamos que, até a presente data, não consta em nossos arquivos crédito de natureza tributária vencido, irregularidades cadastrais, irregularidades na apresentação de Declarações e crédito de natureza não tributária inscrito em dívida ativa, de responsabilidade do contribuinte acima qualificado, ficando ressalvado à Fazenda Municipal o direito de cobrar qualquer dívida que venha a ser apurada. A presente Certidão foi expedida com base no artigo 4º da Lei Complementar nº 168 de 13/09/2017 combinado com a Portaria nº 004/2018-GS/SEMUT.\nNatal (RN), 2 de outubro de 2026 1 de 1Página07:19:14às\nEmitida pela sessão: 630342291 através do IP: 189.9.61.73\n2 de outubro de 2026\nLocal e Data de Expedição:\nNatal (RN),\nEsta certidão é válida por\nValidade:\n30 dias a contar da data de sua expedição",
-"tipo": "pdf",
-"titulo": "Certidão Municipal Escritório de Natal-RN",
-"uf": "RN",
-"validade": {
-"ate": "2026-11-01",
-"fonte": "tabela de vencimentos"
-},
-"validadeDoc": null,
-"ver": "arquivos/0d98ac845e9d.pdf"
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/PALMAS",
@@ -3258,7 +3228,15 @@
 "planilhaDiz": null,
 "titulo": "Certidão Municipal Escritório de Maceió-AL",
 "venceu": "2026-10-25"
+},
+{
+"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/NATAL",
+"categoria": "CERTIDAO DE REGULARIDADE MUNICIPAL",
+"pasta": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/NATAL",
+"planilhaDiz": null,
+"titulo": "Certidão Municipal Escritório de Natal-RN",
+"venceu": "2026-11-01"
 }
 ],
-"geradoEm": "2026-10-29T21:17:45Z"
+"geradoEm": "2026-11-02T03:17:32Z"
 }
