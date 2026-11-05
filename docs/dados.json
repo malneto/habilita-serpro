@@ -25,7 +25,7 @@
 "id": "CERTIDAO DE REGULARIDADE ESTADUAL",
 "nome": "Certidão estadual",
 "ordem": "03 - CERTIDÃO DE REGULARIDADE ESTADUAL",
-"total": 17
+"total": 16
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL",
@@ -52,15 +52,6 @@
 "id": "CERTIDAO TRABALHISTA",
 "nome": "Trabalhista (CNDT)",
 "ordem": "06 - CERTIDÃO TRABALHISTA (TST)",
-"total": 1
-},
-{
-"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/07%20-%20CERTID%C3%83O%20FAL%C3%8ANCIA%20E%20RECUPERA%C3%87%C3%83O%20JUDICIAL%20%28TJDFT%29",
-"descricao": "Certidão de falências e recuperações judiciais do TJDFT.",
-"icone": "📜",
-"id": "CERTIDAO FALENCIA E RECUPERACAO JUDICIAL",
-"nome": "Falência e recuperação judicial",
-"ordem": "07 - CERTIDÃO FALÊNCIA E RECUPERAÇÃO JUDICIAL (TJDFT)",
 "total": 1
 },
 {
@@ -1015,36 +1006,6 @@
 },
 "validadeDoc": null,
 "ver": "arquivos/c64ab64ffd7a.pdf"
-},
-{
-"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/RIO%20GRANDE%20DO%20NORTE",
-"arquivo": "CERTIDAO ESTADUAL DO RIO GRANDE DO NORTE.pdf",
-"caminho": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/RIO GRANDE DO NORTE/CERTIDAO ESTADUAL DO RIO GRANDE DO NORTE.pdf",
-"categoria": "CERTIDAO DE REGULARIDADE ESTADUAL",
-"cidade": null,
-"download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/RIO%20GRANDE%20DO%20NORTE&files=CERTIDAO%20ESTADUAL%20DO%20RIO%20GRANDE%20DO%20NORTE.pdf",
-"etag": "0a5fd325d44a6c91809c2349c6030a39",
-"id": "9e2324528fb1",
-"leitura": "texto",
-"miniatura": "miniaturas/9e2324528fb1.webp",
-"modificadoEm": "2026-10-06T11:37:12Z",
-"pasta": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/RIO GRANDE DO NORTE",
-"pastas": [
-"03 - CERTIDÃO DE REGULARIDADE ESTADUAL",
-"RIO GRANDE DO NORTE"
-],
-"primeiroVisto": "2026-10-29T19:47:34Z",
-"tamanho": 10432,
-"texto": "GOVERNO DO ESTADO DO RIO GRANDE DO NORTE\nSecretaria de Estado da Tributação\nProcuradoria Geral do Estado\nCERTIDÃO CONJUNTA NEGATIVA Nº 13222950\nDE DÉBITOS RELATIVOS AOS TRIBUTOS ESTADUAIS E À DÍVIDA ATIVA DO ESTADO\nContribuinte: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)\nCNPJ: 33.683.111/0029-08 Inscrição Estadual: 20.137.531-1\n Certificamos que, até a presente data, não constam pendências em nome do sujeito passivo\nacima especificado, referente a tributos estaduais ou débitos inscritos na Dívida Ativa Estadual,\nressalvada à Fazenda Pública o direito de cobrar quaisquer dívidas que venham a ser apuradas.\n Esta certidão refere-se exclusivamente à situação do sujeito passivo no âmbito da Secretaria de\nEstado de Tributação e da Procuradoria Geral do Estado, não abrangendo as taxas e contribuições\ndevidas aos demais órgãos do Estado, exceto se inscritas na Dívida Ativa.\nASPECTOS DE VALIDADE\nA autenticidade desta certidão deverá ser verificada na Internet, no endereço\nhttps://uvt.sefaz.rn.gov.br/#/services/autenticidade/certidao-conjunta.\nCertidão emitida com base na Resolução Interadministrativa Nº 001, de 09/02/2012 - PGE/SET.\nEmitida em 06/10/2026 às 08:35:06 <Horário de Natal/RN>.\nEndereço IP: 189.9.61.73.\nValidade até 04/11/2026.\nCertidão emitida gratuitamente.\nAtenção: Qualquer rasura ou emenda invalidará este documento.",
-"tipo": "pdf",
-"titulo": "Certidão Estadual do Rio Grande do Norte",
-"uf": "RN",
-"validade": {
-"ate": "2026-11-04",
-"fonte": "tabela de vencimentos"
-},
-"validadeDoc": null,
-"ver": "arquivos/9e2324528fb1.pdf"
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/RIO%20GRANDE%20DO%20SUL",
@@ -2009,40 +1970,6 @@
 "fonte": "documento"
 },
 "ver": "arquivos/90985bdb7db9.pdf"
-},
-{
-"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/07%20-%20CERTID%C3%83O%20FAL%C3%8ANCIA%20E%20RECUPERA%C3%87%C3%83O%20JUDICIAL%20%28TJDFT%29",
-"arquivo": "CERTIDÃO DE FALENCIAS E RECUPERAÇÕES JUDICIAIS.pdf",
-"caminho": "/07 - CERTIDÃO FALÊNCIA E RECUPERAÇÃO JUDICIAL (TJDFT)/CERTIDÃO DE FALENCIAS E RECUPERAÇÕES JUDICIAIS.pdf",
-"categoria": "CERTIDAO FALENCIA E RECUPERACAO JUDICIAL",
-"cidade": null,
-"download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/07%20-%20CERTID%C3%83O%20FAL%C3%8ANCIA%20E%20RECUPERA%C3%87%C3%83O%20JUDICIAL%20%28TJDFT%29&files=CERTID%C3%83O%20DE%20FALENCIAS%20E%20RECUPERA%C3%87%C3%95ES%20JUDICIAIS.pdf",
-"etag": "4507d2bd9ed315e7034e3c0f268e0052",
-"id": "d150096c292f",
-"leitura": "texto",
-"miniatura": "miniaturas/d150096c292f.webp",
-"modificadoEm": "2026-10-05T10:51:52Z",
-"pasta": "/07 - CERTIDÃO FALÊNCIA E RECUPERAÇÃO JUDICIAL (TJDFT)",
-"pastas": [
-"07 - CERTIDÃO FALÊNCIA E RECUPERAÇÃO JUDICIAL (TJDFT)"
-],
-"primeiroVisto": "2026-10-29T19:47:11Z",
-"tamanho": 139987,
-"texto": "CERTIFICAMOS que , após consulta aos registros eletrônicos de distribuição de ações de\nfalências e recuperações judiciais disponíveis até 05/10/2026, NADA CONSTA contra o nome por extenso\ne CPF/CNPJ de:\nSERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)\n33.683.111/0001-07\nOBSERVAÇÕES:\na) Os dados de identificação são de responsabilidade do solicitante da certidão, devendo a titularidade ser conferida\npelo interessado e pelo destinatário.\nb) A certidão será emitida de acordo com as informações inseridas no banco de dados. Em caso de exibição de\nprocessos com dados desatualizados, o interessado deverá requerer a atualização junto ao juízo ou órgão julgador.\nc) A certidão será negativa quando não for possível a individualização dos processos por carência de dados do Poder\nJudiciário. (artigo 8o, § 2o da Resolução 121/CNJ).\nd) A certidão cível contempla ações cíveis, execuções fiscais, execuções e insolvências civis, falências, recuperações\njudiciais, recuperações extrajudiciais, inventários, interdições, tutelas e curatelas. A certidão criminal compreende os\nprocessos criminais, os processos criminais militares e as execuções penais. Demais informações sobre o conteúdo\ndas certidões, consultar em www.tjdft.jus.br, no menu Serviços, Certidões, Certidão Nada Consta, Tipos de Certidão.\ne) As certidões de Falência e Recuperação Judicial, Cível ou Especial atendem ao disposto no inciso II do artigo 69 da\nLei 14133/2021.\nf) Medida prevista no artigo 26 do Código Penal, sentença não transitada em julgado.\nA autenticidade deverá ser confirmada no site do TJDFT (www.tjdft.jus.br), no menu Serviços, Certidões,\nCertidão Nada Consta, Validar Certidão - autenticar, informando-se o número do selo digital de segurança\nimpresso.\nEmitida gratuitamente pela internet em: 05/10/2026\nSelo digital de segurança: 2026.CTD.3SC8.KNAY.OB27.WFLA.W0H4\n*** VÁLIDA POR 30 (TRINTA) DIAS ***\nPágina 1 de 1\nPoder Judiciário da União\nTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS\nCERTIDÃO NEGATIVA DE DISTRIBUIÇÃO (AÇÕES DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS)\n1ª e 2ª Instâncias\n05/10/2026 07:51:19\nNUCER - Núcleo de Emissão de Certidões do TJDFT\nFórum de Brasília - Milton Sebastião Barbosa, Praça Municipal - Lote 1, Bloco A, Ala B - Térreo.\nBrasília - DF\nHorário de Atendimento: 7h às 19h, de segunda a sexta-feira, exceto feriados.",
-"tipo": "pdf",
-"titulo": "Certidão de Falências e Recuperações Judiciais",
-"uf": null,
-"validade": {
-"ate": "2026-11-04",
-"emissao": "2026-10-05",
-"fonte": "documento"
-},
-"validadeDoc": {
-"ate": "2026-11-04",
-"emissao": "2026-10-05",
-"fonte": "documento"
-},
-"ver": "arquivos/d150096c292f.pdf"
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/08%20-%20CADIN",
@@ -3236,7 +3163,23 @@
 "planilhaDiz": null,
 "titulo": "Certidão Municipal Escritório de Natal-RN",
 "venceu": "2026-11-01"
+},
+{
+"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/07%20-%20CERTID%C3%83O%20FAL%C3%8ANCIA%20E%20RECUPERA%C3%87%C3%83O%20JUDICIAL%20%28TJDFT%29",
+"categoria": "CERTIDAO FALENCIA E RECUPERACAO JUDICIAL",
+"pasta": "/07 - CERTIDÃO FALÊNCIA E RECUPERAÇÃO JUDICIAL (TJDFT)",
+"planilhaDiz": null,
+"titulo": "Certidão de Falências e Recuperações Judiciais",
+"venceu": "2026-11-04"
+},
+{
+"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/RIO%20GRANDE%20DO%20NORTE",
+"categoria": "CERTIDAO DE REGULARIDADE ESTADUAL",
+"pasta": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/RIO GRANDE DO NORTE",
+"planilhaDiz": null,
+"titulo": "Certidão Estadual do Rio Grande do Norte",
+"venceu": "2026-11-04"
 }
 ],
-"geradoEm": "2026-11-02T03:17:32Z"
+"geradoEm": "2026-11-05T03:17:33Z"
 }
