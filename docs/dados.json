@@ -25,7 +25,7 @@
 "id": "CERTIDAO DE REGULARIDADE ESTADUAL",
 "nome": "Certidão estadual",
 "ordem": "03 - CERTIDÃO DE REGULARIDADE ESTADUAL",
-"total": 16
+"total": 15
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL",
@@ -34,7 +34,7 @@
 "id": "CERTIDAO DE REGULARIDADE MUNICIPAL",
 "nome": "Certidão municipal",
 "ordem": "04 - CERTIDÃO DE REGULARIDADE MUNICIPAL",
-"total": 26
+"total": 24
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/05%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20FGTS%20%28CAIXA%29",
@@ -1071,36 +1071,6 @@
 "ver": "arquivos/dcf4d4748e0b.pdf"
 },
 {
-"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/SAO%20PAULO",
-"arquivo": "CERTIDAO ESTADUAL DE SAO PAULO.pdf",
-"caminho": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/SAO PAULO/CERTIDAO ESTADUAL DE SAO PAULO.pdf",
-"categoria": "CERTIDAO DE REGULARIDADE ESTADUAL",
-"cidade": null,
-"download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/SAO%20PAULO&files=CERTIDAO%20ESTADUAL%20DE%20SAO%20PAULO.pdf",
-"etag": "83d9fd326524a9b916683c130c651d4a",
-"id": "131b76218df8",
-"leitura": "texto",
-"miniatura": "miniaturas/131b76218df8.webp",
-"modificadoEm": "2026-10-09T12:31:43Z",
-"pasta": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/SAO PAULO",
-"pastas": [
-"03 - CERTIDÃO DE REGULARIDADE ESTADUAL",
-"SAO PAULO"
-],
-"primeiroVisto": "2026-10-29T19:47:32Z",
-"tamanho": 259406,
-"texto": "PROCURADORIA GERAL DO ESTADO\nProcuradoria da Dívida Ativa\nCertidão Negativa de Débitos Inscritos\nda\nDívida Ativa do Estado de São Paulo\nCNPJ Base: 33.683.111\nRessalvado o direito de a Fazenda do Estado de São Paulo cobrar ou inscrever quaisquer dívidas de\nresponsabilidade da pessoa jurídica/física acima identificada que vierem a ser apuradas, é certificado que:\nnão constam débitos inscritos em Dívida Ativa de responsabilidade do Interessado(a).\n_\n_\n_\n_\n_\n_\n_\n_\n_\n_\n_\n_\n_\n_\n_\n_\n_\n_\n_\n_\n_\n_\n_\nTratando-se de CRDA emitida para pessoa jurídica, a pesquisa na base de dados é feita por meio do CNPJ Base,\nde modo que a certidão negativa abrange todos os estabelecimentos do contribuinte, cuja raiz do CNPJ seja\naquela acima informada.\nCertidão nº 84390777\nData e hora da emissão 09/10/2026 09:31:06 (hora de Brasília)\nValidade 30 (TRINTA) dias, contados da emissão.\nQualquer rasura ou emenda invalidará este documento.\nA aceitação desta certidão está condicionada à verificação de sua autenticidade no sítio\nhttp://www.dividaativa.pge.sp.gov.br\nFolha 1 de 1\nCertidão emitida nos termos da Resolução Conjunta SF-PGE nº 2, de 9 de maio de 2013.",
-"tipo": "pdf",
-"titulo": "Certidão Estadual de São Paulo",
-"uf": "SP",
-"validade": {
-"ate": "2026-11-08",
-"fonte": "tabela de vencimentos"
-},
-"validadeDoc": null,
-"ver": "arquivos/131b76218df8.pdf"
-},
-{
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/ARACAJU",
 "arquivo": "CERTIDAO MUNICIPAL ESCRITORIO DE ARACAJU-SE.pdf",
 "caminho": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/ARACAJU/CERTIDAO MUNICIPAL ESCRITORIO DE ARACAJU-SE.pdf",
@@ -1503,39 +1473,6 @@
 "ver": "arquivos/afd30ee49e83.pdf"
 },
 {
-"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/MACAP%C3%81",
-"arquivo": "CERTIDAO MUNICIPAL ESCRITORIO DE MACAPA-AP.pdf",
-"caminho": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/MACAPÁ/CERTIDAO MUNICIPAL ESCRITORIO DE MACAPA-AP.pdf",
-"categoria": "CERTIDAO DE REGULARIDADE MUNICIPAL",
-"cidade": "Macapá",
-"download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/MACAP%C3%81&files=CERTIDAO%20MUNICIPAL%20ESCRITORIO%20DE%20MACAPA-AP.pdf",
-"etag": "31d59bf7f154430c25a5f71acdd52297",
-"id": "1bad55e4463e",
-"leitura": "texto",
-"miniatura": "miniaturas/1bad55e4463e.webp",
-"modificadoEm": "2026-10-09T12:27:20Z",
-"pasta": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/MACAPÁ",
-"pastas": [
-"04 - CERTIDÃO DE REGULARIDADE MUNICIPAL",
-"MACAPÁ"
-],
-"primeiroVisto": "2026-10-29T19:47:23Z",
-"tamanho": 241048,
-"texto": "Emitido por: - 09/10/2026\nPREFEITURA MUNICIPAL DE MACAPÁ\n CERTIDÃO NEGATIVA DE TRIBUTOS MUNICIPAIS - MOBILIÁRIA\nNº: 441286/2026\nEmail:contato@macapa.ap.gov.br Fone:(96)98802-1186\nAV FAB, nº, CENTRO - 68900--07\nPágina: 1/1\nA certidão somente terá validade quando não apresentar rasuras, emendas, ou borrões, ficando\ncondicionada a veracidade da mesma, exclusivamente, pelo aceitante no endereço eletrônico:\nhttp://www.tributosnet.com.br/macapa/portal\nNOME\nCPF/CNPJ RG/INSCR. ESTADUAL\nENDEREÇO\n33.683.111/0050-87\nSERVIÇO FEDERAL DE PROCESSAMENTO DE DADOS-SERPRO\nINSCRIÇÃO MUNICIPAL\nCÓDIGO DO CADASTRO\n1327734\nFINALIDADE\nMATRICULA QUADRA LOTE\n1474\nAV PADRE MANOEL DA NOBREGA - 1029 - Bairro: JESUS DE NAZARÉ - Macapá/AP - 68900000\nSETORSITUAÇÃO\nATIVO\n OBSERVAÇÃO :\nRESSALVA :\nObservações\nCERTIFICO , para os devidos fins , a pedido via internet , que revendo os assentamentos existentes\nnesta Seção , deles verifiquei constar que o contribuinte acima descrito , encontra-se quite com o Erário\nMunicipal , até a presente data , relativamente ao Tributos Municipais . ATENÇÃO : Fica ressalvado o\ndireito da Fazenda Municipal exigir a qualquer tempo , créditos tributários que venham a ser\napurados .\nValidade: 08/11/2026.Impressão: 09/10/2026.Emissão: 09/10/2026.",
-"tipo": "pdf",
-"titulo": "Certidão Municipal Escritório de Macapá-AP",
-"uf": "AP",
-"validade": {
-"ate": "2026-11-08",
-"fonte": "documento"
-},
-"validadeDoc": {
-"ate": "2026-11-08",
-"fonte": "documento"
-},
-"ver": "arquivos/1bad55e4463e.pdf"
-},
-{
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/MANAUS",
 "arquivo": "CERTIDAO MUNICIPAL ESCRITORIO DE MANAUS-AM.pdf",
 "caminho": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/MANAUS/CERTIDAO MUNICIPAL ESCRITORIO DE MANAUS-AM.pdf",
@@ -1843,39 +1780,6 @@
 },
 "validadeDoc": null,
 "ver": "arquivos/bb0a655549bc.pdf"
-},
-{
-"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/TERESINA",
-"arquivo": "CERTIDAO MUNICIPAL ESCRITORIO DE TERESINA-PI.pdf",
-"caminho": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/TERESINA/CERTIDAO MUNICIPAL ESCRITORIO DE TERESINA-PI.pdf",
-"categoria": "CERTIDAO DE REGULARIDADE MUNICIPAL",
-"cidade": "Teresina",
-"download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/TERESINA&files=CERTIDAO%20MUNICIPAL%20ESCRITORIO%20DE%20TERESINA-PI.pdf",
-"etag": "5e855c75463303b5f7db40b3490c8101",
-"id": "526ac8469e87",
-"leitura": "texto",
-"miniatura": "miniaturas/526ac8469e87.webp",
-"modificadoEm": "2026-08-10T10:27:32Z",
-"pasta": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/TERESINA",
-"pastas": [
-"04 - CERTIDÃO DE REGULARIDADE MUNICIPAL",
-"TERESINA"
-],
-"primeiroVisto": "2026-10-29T19:47:16Z",
-"tamanho": 22016,
-"texto": "ESTADO DO PIAUÍ\nPREFEITURA MUNICIPAL DE TERESINA\nFolha 1 /\n1\nSECRETARIA MUNICIPAL DE FINANÇAS - SEMF\nCOORDENAÇÃO ESPECIAL DA RECEITA DO MUNICÍPIO\nCódigo autenticidade: 464FECBC6B0605BF\nNº Via: 1\nCERTIDAO CONJUNTA NEGATIVA E DA DIVIDA ATIVA DO MUNICIPIO\nCÓDIGO DE CONTROLE: 0290103/26-06\nCPF/CNPJ: 33.683.111/0043-58\nContribuinte: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)\n                  Certificamos para os devidos fins de direito que, até a presente data, o contribuinte acima \nidentificado está quite em relação a tributos e multas por descumprimento de obrigação estabelecida na \nlegislação municipal, ressalvado o direito de a Fazenda Municipal cobrar e inscrever em Dívida Ativa \nquaisquer débitos que venham a ser posteriormente apurados em seu nome, conforme estabelecem os arts. \n456 e 457 da Lei Complementar nº 4.974, de 26 de dezembro de 2016 (Código Tributário do Município de \nTeresina).\nEmissão: Teresina-PI, às 07:26:19 h, do dia 10/08/2026\nValidade: 08/11/2026\nCertidão sem validade para transferência de imóvel em cartório.\nObservações:\n - A aceitação desta declaração está condicionada à verificação de sua autenticidade na internet, no endereço \nhttp://www.teresina.pi.gov.br\n - Qualquer rasura ou emenda invalidará este documento.\n - Certidão emitida conforme modelo definido no anexo I, do Decreto nº 11333/2011.",
-"tipo": "pdf",
-"titulo": "Certidão Municipal Escritório de Teresina-PI",
-"uf": "PI",
-"validade": {
-"ate": "2026-11-08",
-"fonte": "documento"
-},
-"validadeDoc": {
-"ate": "2026-11-08",
-"fonte": "documento"
-},
-"ver": "arquivos/526ac8469e87.pdf"
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/VIT%C3%93RIA",
@@ -3179,7 +3083,31 @@
 "planilhaDiz": null,
 "titulo": "Certidão Estadual do Rio Grande do Norte",
 "venceu": "2026-11-04"
+},
+{
+"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/TERESINA",
+"categoria": "CERTIDAO DE REGULARIDADE MUNICIPAL",
+"pasta": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/TERESINA",
+"planilhaDiz": null,
+"titulo": "Certidão Municipal Escritório de Teresina-PI",
+"venceu": "2026-11-08"
+},
+{
+"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/MACAP%C3%81",
+"categoria": "CERTIDAO DE REGULARIDADE MUNICIPAL",
+"pasta": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/MACAPÁ",
+"planilhaDiz": null,
+"titulo": "Certidão Municipal Escritório de Macapá-AP",
+"venceu": "2026-11-08"
+},
+{
+"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/SAO%20PAULO",
+"categoria": "CERTIDAO DE REGULARIDADE ESTADUAL",
+"pasta": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/SAO PAULO",
+"planilhaDiz": null,
+"titulo": "Certidão Estadual de São Paulo",
+"venceu": "2026-11-08"
 }
 ],
-"geradoEm": "2026-11-05T03:17:33Z"
+"geradoEm": "2026-11-09T03:17:45Z"
 }
