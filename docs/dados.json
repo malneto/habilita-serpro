@@ -34,7 +34,7 @@
 "id": "CERTIDAO DE REGULARIDADE MUNICIPAL",
 "nome": "Certidão municipal",
 "ordem": "04 - CERTIDÃO DE REGULARIDADE MUNICIPAL",
-"total": 24
+"total": 25
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/05%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20FGTS%20%28CAIXA%29",
@@ -1504,6 +1504,36 @@
 "fonte": "documento"
 },
 "ver": "arquivos/01a5d8d28465.pdf"
+},
+{
+"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/NATAL",
+"arquivo": "CERTIDAO MUNICIPAL ESCRITORIO DE NATAL-RN.pdf",
+"caminho": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/NATAL/CERTIDAO MUNICIPAL ESCRITORIO DE NATAL-RN.pdf",
+"categoria": "CERTIDAO DE REGULARIDADE MUNICIPAL",
+"cidade": "Natal",
+"download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/NATAL&files=CERTIDAO%20MUNICIPAL%20ESCRITORIO%20DE%20NATAL-RN.pdf",
+"etag": "53383614ce298ee86fdc2785fda029e1",
+"id": "0d98ac845e9d",
+"leitura": "texto",
+"miniatura": "miniaturas/0d98ac845e9d.webp",
+"modificadoEm": "2026-11-11T00:26:45Z",
+"pasta": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/NATAL",
+"pastas": [
+"04 - CERTIDÃO DE REGULARIDADE MUNICIPAL",
+"NATAL"
+],
+"primeiroVisto": "2026-11-11T01:17:46Z",
+"tamanho": 20416,
+"texto": "SEFIN - SECRETARIA MUNICIPAL DE FINANÇAS\nCPF/CNPJ: Nome/Razão Social:\nContribuinte:\n33.683.111/0029-08 SERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)\nNº da Certidão: Observação:Código de Validação:\n4370948 898811619081\nPrefeitura Municipal do Natal\nA validade desta certidão deve ser verificada utilizando o código ao lado, pela\ninternet, no endereço www.natal.rn.gov.br/sefin\nSituação Cadastral: EMPRESA COM INSCRIÇÃO MOBILIÁRIA ATIVA NO MUNICÍPIO\nCertidão Negativa de Débitos para com a Fazenda Municipal\nInscrições Mobiliárias Ativas: 106.166-6 - 33.683.111/0029-08 Certificamos que, até a presente data, não consta em nossos arquivos crédito de natureza tributária vencido, irregularidades cadastrais, irregularidades na apresentação de Declarações e crédito de natureza não tributária inscrito em dívida ativa, de responsabilidade do contribuinte acima qualificado, ficando ressalvado à Fazenda Municipal o direito de cobrar qualquer dívida que venha a ser apurada. A presente Certidão foi expedida com base no artigo 4º da Lei Complementar nº 168 de 13/09/2017 combinado com a Portaria nº 004/2018-GS/SEMUT.\nNatal (RN), 9 de novembro de 2026 1 de 1Página17:20:13às\nEmitida pela sessão: 630902771 através do IP: 189.6.19.68\n9 de novembro de 2026\nLocal e Data de Expedição:\nNatal (RN),\nEsta certidão é válida por\nValidade:\n30 dias a contar da data de sua expedição",
+"tipo": "pdf",
+"titulo": "Certidão Municipal Escritório de Natal-RN",
+"uf": "RN",
+"validade": {
+"ate": "2026-12-09",
+"fonte": "tabela de vencimentos"
+},
+"validadeDoc": null,
+"ver": "arquivos/0d98ac845e9d.pdf"
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/PALMAS",
@@ -3018,23 +3048,23 @@
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/VENCIMENTO%20DAS%20CERTID%C3%95ES%20NEGATIVAS",
-"arquivo": "TABELA VENCIMENTO DAS CERTIDOES NEGATIVAS DO SERPRO(23).xlsx",
-"caminho": "/VENCIMENTO DAS CERTIDÕES NEGATIVAS/TABELA VENCIMENTO DAS CERTIDOES NEGATIVAS DO SERPRO(23).xlsx",
+"arquivo": "TABELA VENCIMENTO DAS CERTIDOES NEGATIVAS DO SERPRO.xlsx",
+"caminho": "/VENCIMENTO DAS CERTIDÕES NEGATIVAS/TABELA VENCIMENTO DAS CERTIDOES NEGATIVAS DO SERPRO.xlsx",
 "categoria": "VENCIMENTO DAS CERTIDOES NEGATIVAS",
 "cidade": null,
-"download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/VENCIMENTO%20DAS%20CERTID%C3%95ES%20NEGATIVAS&files=TABELA%20VENCIMENTO%20DAS%20CERTIDOES%20NEGATIVAS%20DO%20SERPRO%2823%29.xlsx",
-"etag": "11b375ca47f20c43e9efe81636f39833",
-"id": "e915f7eb1abb",
-"modificadoEm": "2026-10-29T11:55:04Z",
+"download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/VENCIMENTO%20DAS%20CERTID%C3%95ES%20NEGATIVAS&files=TABELA%20VENCIMENTO%20DAS%20CERTIDOES%20NEGATIVAS%20DO%20SERPRO.xlsx",
+"etag": "59840ca99066f2e70ad40bebf0fa9b4e",
+"id": "537f4c273653",
+"modificadoEm": "2026-11-11T00:32:15Z",
 "pasta": "/VENCIMENTO DAS CERTIDÕES NEGATIVAS",
 "pastas": [
 "VENCIMENTO DAS CERTIDÕES NEGATIVAS"
 ],
-"primeiroVisto": "2026-10-29T19:46:34Z",
-"tamanho": 28398,
+"primeiroVisto": "2026-11-11T01:17:44Z",
+"tamanho": 31954,
 "texto": "Tabela de controle de vencimento das certidões negativas do Serpro (municipais e estaduais).",
 "tipo": "xlsx",
-"titulo": "Tabela Vencimento das Certidões Negativas do Serpro",
+"titulo": "Tabela Vencimento das Certidões Negativas do SERPRO",
 "uf": null
 }
 ],
@@ -3059,14 +3089,6 @@
 "planilhaDiz": null,
 "titulo": "Certidão Municipal Escritório de Maceió-AL",
 "venceu": "2026-10-25"
-},
-{
-"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/NATAL",
-"categoria": "CERTIDAO DE REGULARIDADE MUNICIPAL",
-"pasta": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/NATAL",
-"planilhaDiz": null,
-"titulo": "Certidão Municipal Escritório de Natal-RN",
-"venceu": "2026-11-01"
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/07%20-%20CERTID%C3%83O%20FAL%C3%8ANCIA%20E%20RECUPERA%C3%87%C3%83O%20JUDICIAL%20%28TJDFT%29",
@@ -3109,5 +3131,5 @@
 "venceu": "2026-11-08"
 }
 ],
-"geradoEm": "2026-11-09T03:17:45Z"
+"geradoEm": "2026-11-11T01:17:48Z"
 }
