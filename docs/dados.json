@@ -25,7 +25,7 @@
 "id": "CERTIDAO DE REGULARIDADE ESTADUAL",
 "nome": "Certidão estadual",
 "ordem": "03 - CERTIDÃO DE REGULARIDADE ESTADUAL",
-"total": 15
+"total": 16
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL",
@@ -1006,6 +1006,36 @@
 },
 "validadeDoc": null,
 "ver": "arquivos/c64ab64ffd7a.pdf"
+},
+{
+"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/RIO%20GRANDE%20DO%20NORTE",
+"arquivo": "CND RIO GRANDE DO NORTE.pdf",
+"caminho": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/RIO GRANDE DO NORTE/CND RIO GRANDE DO NORTE.pdf",
+"categoria": "CERTIDAO DE REGULARIDADE ESTADUAL",
+"cidade": null,
+"download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/RIO%20GRANDE%20DO%20NORTE&files=CND%20RIO%20GRANDE%20DO%20NORTE.pdf",
+"etag": "785298586e47fb3c6c63b9510702ddbf",
+"id": "e2ad7ae2d500",
+"leitura": "texto",
+"miniatura": "miniaturas/e2ad7ae2d500.webp",
+"modificadoEm": "2026-11-11T13:45:51Z",
+"pasta": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/RIO GRANDE DO NORTE",
+"pastas": [
+"03 - CERTIDÃO DE REGULARIDADE ESTADUAL",
+"RIO GRANDE DO NORTE"
+],
+"primeiroVisto": "2026-11-11T23:17:49Z",
+"tamanho": 20928,
+"texto": "GOVERNO DO ESTADO DO RIO GRANDE DO NORTE\nSecretaria de Estado da Tributação\nProcuradoria Geral do Estado\nCERTIDÃO CONJUNTA NEGATIVA Nº 13364063\nDE DÉBITOS RELATIVOS AOS TRIBUTOS ESTADUAIS E À DÍVIDA ATIVA DO ESTADO\nContribuinte: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)\nCNPJ: 33.683.111/0029-08 Inscrição Estadual: 20.137.531-1\n Certificamos que, até a presente data, não constam pendências em nome do sujeito passivo\nacima especificado, referente a tributos estaduais ou débitos inscritos na Dívida Ativa Estadual,\nressalvada à Fazenda Pública o direito de cobrar quaisquer dívidas que venham a ser apuradas.\n Esta certidão refere-se exclusivamente à situação do sujeito passivo no âmbito da Secretaria de\nEstado de Tributação e da Procuradoria Geral do Estado, não abrangendo as taxas e contribuições\ndevidas aos demais órgãos do Estado, exceto se inscritas na Dívida Ativa.\nASPECTOS DE VALIDADE\nA autenticidade desta certidão deverá ser verificada na Internet, no endereço\nhttps://uvt.sefaz.rn.gov.br/#/services/autenticidade/certidao-conjunta.\nCertidão emitida com base na Resolução Interadministrativa Nº 001, de 09/02/2012 - PGE/SET.\nEmitida em 11/11/2026 às 08:21:57 <Horário de Natal/RN>.\nEndereço IP: 189.6.19.68.\nValidade até 10/12/2026.\nCertidão emitida gratuitamente.\nAtenção: Qualquer rasura ou emenda invalidará este documento.",
+"tipo": "pdf",
+"titulo": "CND Rio Grande do Norte",
+"uf": "RN",
+"validade": {
+"ate": "2026-12-10",
+"fonte": "tabela de vencimentos"
+},
+"validadeDoc": null,
+"ver": "arquivos/e2ad7ae2d500.pdf"
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/RIO%20GRANDE%20DO%20SUL",
@@ -3053,15 +3083,15 @@
 "categoria": "VENCIMENTO DAS CERTIDOES NEGATIVAS",
 "cidade": null,
 "download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/VENCIMENTO%20DAS%20CERTID%C3%95ES%20NEGATIVAS&files=TABELA%20VENCIMENTO%20DAS%20CERTIDOES%20NEGATIVAS%20DO%20SERPRO.xlsx",
-"etag": "59840ca99066f2e70ad40bebf0fa9b4e",
+"etag": "eed13fefe88c1955cce8bcba3ef78c95",
 "id": "537f4c273653",
-"modificadoEm": "2026-11-11T00:32:15Z",
+"modificadoEm": "2026-11-11T21:30:53Z",
 "pasta": "/VENCIMENTO DAS CERTIDÕES NEGATIVAS",
 "pastas": [
 "VENCIMENTO DAS CERTIDÕES NEGATIVAS"
 ],
 "primeiroVisto": "2026-11-11T01:17:44Z",
-"tamanho": 31954,
+"tamanho": 31987,
 "texto": "Tabela de controle de vencimento das certidões negativas do Serpro (municipais e estaduais).",
 "tipo": "xlsx",
 "titulo": "Tabela Vencimento das Certidões Negativas do SERPRO",
@@ -3099,14 +3129,6 @@
 "venceu": "2026-11-04"
 },
 {
-"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/RIO%20GRANDE%20DO%20NORTE",
-"categoria": "CERTIDAO DE REGULARIDADE ESTADUAL",
-"pasta": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/RIO GRANDE DO NORTE",
-"planilhaDiz": null,
-"titulo": "CND Rio Grande do Norte",
-"venceu": "2026-11-04"
-},
-{
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/TERESINA",
 "categoria": "CERTIDAO DE REGULARIDADE MUNICIPAL",
 "pasta": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/TERESINA",
@@ -3131,5 +3153,5 @@
 "venceu": "2026-11-08"
 }
 ],
-"geradoEm": "2026-11-11T14:17:48Z"
+"geradoEm": "2026-11-11T23:17:51Z"
 }
