@@ -25,7 +25,7 @@
 "id": "CERTIDAO DE REGULARIDADE ESTADUAL",
 "nome": "Certidão estadual",
 "ordem": "03 - CERTIDÃO DE REGULARIDADE ESTADUAL",
-"total": 16
+"total": 15
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL",
@@ -1036,39 +1036,6 @@
 },
 "validadeDoc": null,
 "ver": "arquivos/e2ad7ae2d500.pdf"
-},
-{
-"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/RIO%20GRANDE%20DO%20SUL",
-"arquivo": "CERTIDAO ESTADUAL DO RIO GRANDE DO SUL.pdf",
-"caminho": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/RIO GRANDE DO SUL/CERTIDAO ESTADUAL DO RIO GRANDE DO SUL.pdf",
-"categoria": "CERTIDAO DE REGULARIDADE ESTADUAL",
-"cidade": null,
-"download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/RIO%20GRANDE%20DO%20SUL&files=CERTIDAO%20ESTADUAL%20DO%20RIO%20GRANDE%20DO%20SUL.pdf",
-"etag": "ae09606c27a22621ee21790d5d8d0b0a",
-"id": "d53fb38d97a9",
-"leitura": "texto",
-"miniatura": "miniaturas/d53fb38d97a9.webp",
-"modificadoEm": "2026-09-15T09:58:01Z",
-"pasta": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/RIO GRANDE DO SUL",
-"pastas": [
-"03 - CERTIDÃO DE REGULARIDADE ESTADUAL",
-"RIO GRANDE DO SUL"
-],
-"primeiroVisto": "2026-10-29T19:47:34Z",
-"tamanho": 91543,
-"texto": "Nome:SERV FEDERAL DE PROCESSAMENTO DE DADOS SERPRO\nCNPJ base:33.683.111/\nObs.: A presente certidão é válida para toda a empresa, representada pelo CNPJ base composto pelos 8 primeiros dígitos. Todos \nos estabelecimentos da empresa foram avaliados na pesquisa de regularidade fiscal. \nCertificamos que, aos 14 dias do mês de SETEMBRO do ano de 2026, revendo os bancos de dados da Secretaria \nda Fazenda do Estado do Rio Grande Sul, não elidido o direito de a Fazenda proceder a posteriores verificações e, a \nqualquer tempo, vir a cobrar crédito apurado, o titular do CNPJ base acima se enquadra na seguinte situação:\nCERTIDAO NEGATIVA\n \nConstitui-se esta certidão em meio de prova de existência ou não, em nome do interessado, de débitos ou \npendências relacionados na Instrução Normativa DRP n° 45/98, Título IV, Capítulo V, 1.1.\nDébitos protestados e posteriormente regularizados perante a Receita Estadual do Rio Grande do Sul não impedem \na emissão de “Certidão Negativa”, porém, caso não sejam pagas as taxas cartoriais, o débito permanece protestado \npelo cartório, podendo ser a causa de restrições em entidades de proteção ao crédito. Nesses casos, regularize as \ntaxas diretamente no cartório.\nEsta certidão NÃO comprova a quitação:\na) de tributos devidos mensalmente e declarados na Declaração Anual de Simples Nacional (DASN) e no Programa \nGerador do Documento de Arrecadação do Simples Nacional (PGDAS-D) pelos contribuintes optantes pelo Simples \nNacional;\nb) de ITCD e de ITBI (nas hipóteses em que este imposto seja de competência estadual - Lei n° 7.608/81) em \nprocedimentos judiciais e extrajudiciais de inventário, arrolamento, separação, divórcio, dissolução de união estável \nou partilha de bens. \nEsta certidão é válida até 12/11/2026.\nCertidão expedida gratuitamente e com base na IN/DRP n° 45/98,Título IV, Capítulo V.\nA autenticidade deste documento deverá ser confirmada em \nhttps://www.sefaz.rs.gov.br/SAT/CertidaoSitFiscalConsulta.aspx \ncom o preenchimento apenas dos dois campos a seguir:\nCertidão nº: 41982515\nAutenticação: 52476185\nESTADO DO RIO GRANDE DO SUL\nSECRETARIA DA FAZENDA\nRECEITA ESTADUAL",
-"tipo": "pdf",
-"titulo": "Certidão Estadual do Rio Grande do Sul",
-"uf": "RS",
-"validade": {
-"ate": "2026-11-12",
-"fonte": "documento"
-},
-"validadeDoc": {
-"ate": "2026-11-12",
-"fonte": "documento"
-},
-"ver": "arquivos/d53fb38d97a9.pdf"
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/SANTA%20CATARINA",
@@ -3151,7 +3118,15 @@
 "planilhaDiz": null,
 "titulo": "Certidão Estadual de São Paulo",
 "venceu": "2026-11-08"
+},
+{
+"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/RIO%20GRANDE%20DO%20SUL",
+"categoria": "CERTIDAO DE REGULARIDADE ESTADUAL",
+"pasta": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/RIO GRANDE DO SUL",
+"planilhaDiz": null,
+"titulo": "Certidão Estadual do Rio Grande do Sul",
+"venceu": "2026-11-12"
 }
 ],
-"geradoEm": "2026-11-11T23:17:51Z"
+"geradoEm": "2026-11-13T03:17:39Z"
 }
