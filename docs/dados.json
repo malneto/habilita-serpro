@@ -25,7 +25,7 @@
 "id": "CERTIDAO DE REGULARIDADE ESTADUAL",
 "nome": "Certidão estadual",
 "ordem": "03 - CERTIDÃO DE REGULARIDADE ESTADUAL",
-"total": 15
+"total": 13
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL",
@@ -877,72 +877,6 @@
 "fonte": "documento"
 },
 "ver": "arquivos/88354ce214c5.pdf"
-},
-{
-"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/PIAU%C3%8D",
-"arquivo": "CERTIDAO ESTADUAL DO PIAUI.pdf",
-"caminho": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/PIAUÍ/CERTIDAO ESTADUAL DO PIAUI.pdf",
-"categoria": "CERTIDAO DE REGULARIDADE ESTADUAL",
-"cidade": null,
-"download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/PIAU%C3%8D&files=CERTIDAO%20ESTADUAL%20DO%20PIAUI.pdf",
-"etag": "03620557cd75eed9a9e80131467d2dab",
-"id": "22bd3fc9759c",
-"leitura": "texto",
-"miniatura": "miniaturas/22bd3fc9759c.webp",
-"modificadoEm": "2026-09-15T11:00:08Z",
-"pasta": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/PIAUÍ",
-"pastas": [
-"03 - CERTIDÃO DE REGULARIDADE ESTADUAL",
-"PIAUÍ"
-],
-"primeiroVisto": "2026-10-29T19:47:36Z",
-"tamanho": 87441,
-"texto": "ESTADO DO PIAUÍ\nSECRETARIA DA FAZENDA\nCERTIDÃO NEGATIVA DE DÉBITOS\nNúmero: 2600010231760556\nCPF/CNPJ: 33.683.111/0043-58\nNome/Razão Social: *******************\nRessalvado o direito da Fazenda Estadual cobrar e inscrever\nquaisquer dívidas ainda não registradas ou que venham a ser\napuradas, conforme prerrogativa legal prevista no artigo 149 da Lei\nFederal nº 5.172/1966, c ertifica-se a INEXISTÊNCIA DE DÉBITOS em\nnome do sujeito passivo acima identificado.\nEMITIDA VIA INTERNET EM 15/09/2026 07:57:01\nVÁLIDA ATÉ 14/11/2026\nDocumento expedido gratuitamente.\nValidade deste documento: 60 (sessenta) dias contados da data de sua emissão.\nA aceitação desta certidão está condicionada à verificação de sua autenticação no\nsite https://siatweb.sefaz.pi.gov.br/portal-publico/.\nCódigo de Autenticação: F02E80B8-5E0C-4EC6-9D44-EAF2B5441926\nAssinado digitalmente por SECRETARIA DA\nFAZENDA DO ESTADO DO PIAUI CNPJ:\n06.553.556/0001-91\nData: 15/09/2026 07:57:01 -03:00",
-"tipo": "pdf",
-"titulo": "Certidão Estadual do Piauí",
-"uf": "PI",
-"validade": {
-"ate": "2026-11-14",
-"fonte": "documento"
-},
-"validadeDoc": {
-"ate": "2026-11-14",
-"fonte": "documento"
-},
-"ver": "arquivos/22bd3fc9759c.pdf"
-},
-{
-"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/PIAU%C3%8D",
-"arquivo": "CERTIDAO NEGATIVA DE DIVIDA ATIVA.pdf",
-"caminho": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/PIAUÍ/CERTIDAO NEGATIVA DE DIVIDA ATIVA.pdf",
-"categoria": "CERTIDAO DE REGULARIDADE ESTADUAL",
-"cidade": null,
-"download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/PIAU%C3%8D&files=CERTIDAO%20NEGATIVA%20DE%20DIVIDA%20ATIVA.pdf",
-"etag": "d82a39ed4f37fa578708d943a17304ae",
-"id": "f7e6b93a1172",
-"leitura": "texto",
-"miniatura": "miniaturas/f7e6b93a1172.webp",
-"modificadoEm": "2026-09-15T11:05:16Z",
-"pasta": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/PIAUÍ",
-"pastas": [
-"03 - CERTIDÃO DE REGULARIDADE ESTADUAL",
-"PIAUÍ"
-],
-"primeiroVisto": "2026-10-29T19:47:36Z",
-"tamanho": 96351,
-"texto": "ESTADO DO PIAUÍ\nPROCURADORIA GERAL DO ESTADO\nProcuradoria Tributária\nCERTIDÃO NEGATIVA DE DÍVIDA ATIVA\nNúmero: 2600010331760755\nCPF/CNPJ: 33.683.111/0043-58\nNome/Razão Social: *******************\nRessalvados os direitos da Procuradoria Geral do Estado do Piauí de\ninscrever e cobrar quaisquer dívidas de responsabilidade do sujeito passivo\nacima identificado que vierem a ser apuradas, certifica-se que, após\nconsulta nos sistemas e registros da Dívida Ativa do Estado, NÃO\nCONSTAM débitos inscritos em nome do sujeito passivo acima\nidentificado.\n \nProcuradoria Geral do Estado\nProcuradoria Tributária\nEMITIDA VIA INTERNET EM 15/09/2026 08:02:41\nVÁLIDA ATÉ 14/11/2026\nDocumento expedido gratuitamente.\nA aceitação desta certidão está condicionada à verificação de sua autenticação no site\nhttps://siatweb.sefaz.pi.gov.br/portal-publico/.\nCódigo de Autenticação: 5671116E-A40B-4925-8E99-E0E95176CCFB\nAssinado digitalmente por SECRETARIA DA\nFAZENDA DO ESTADO DO PIAUI CNPJ:\n06.553.556/0001-91\nData: 15/09/2026 08:02:41 -03:00",
-"tipo": "pdf",
-"titulo": "Certidão Negativa de Dívida Ativa",
-"uf": "PI",
-"validade": {
-"ate": "2026-11-14",
-"fonte": "documento"
-},
-"validadeDoc": {
-"ate": "2026-11-14",
-"fonte": "documento"
-},
-"ver": "arquivos/f7e6b93a1172.pdf"
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/RIO%20DE%20JANEIRO",
@@ -3126,7 +3060,23 @@
 "planilhaDiz": null,
 "titulo": "Certidão Estadual do Rio Grande do Sul",
 "venceu": "2026-11-12"
+},
+{
+"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/PIAU%C3%8D",
+"categoria": "CERTIDAO DE REGULARIDADE ESTADUAL",
+"pasta": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/PIAUÍ",
+"planilhaDiz": null,
+"titulo": "Certidão Estadual do Piauí",
+"venceu": "2026-11-14"
+},
+{
+"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/PIAU%C3%8D",
+"categoria": "CERTIDAO DE REGULARIDADE ESTADUAL",
+"pasta": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/PIAUÍ",
+"planilhaDiz": null,
+"titulo": "Certidão Negativa de Dívida Ativa",
+"venceu": "2026-11-14"
 }
 ],
-"geradoEm": "2026-11-13T03:17:39Z"
+"geradoEm": "2026-11-15T03:17:47Z"
 }
