@@ -34,7 +34,7 @@
 "id": "CERTIDAO DE REGULARIDADE MUNICIPAL",
 "nome": "Certidão municipal",
 "ordem": "04 - CERTIDÃO DE REGULARIDADE MUNICIPAL",
-"total": 25
+"total": 24
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/05%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20FGTS%20%28CAIXA%29",
@@ -1033,39 +1033,6 @@
 "fonte": "documento"
 },
 "ver": "arquivos/83334d70d72d.pdf"
-},
-{
-"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/BELO%20HORIZONTE",
-"arquivo": "CERTIDAO MUNICIPAL REGIONAL BELO HORIZONTE-MG.pdf",
-"caminho": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/BELO HORIZONTE/CERTIDAO MUNICIPAL REGIONAL BELO HORIZONTE-MG.pdf",
-"categoria": "CERTIDAO DE REGULARIDADE MUNICIPAL",
-"cidade": "Belo Horizonte",
-"download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/BELO%20HORIZONTE&files=CERTIDAO%20MUNICIPAL%20REGIONAL%20BELO%20HORIZONTE-MG.pdf",
-"etag": "cb590e45bab7ac671d64244d462896da",
-"id": "37489283c6b5",
-"leitura": "texto",
-"miniatura": "miniaturas/37489283c6b5.webp",
-"modificadoEm": "2026-10-16T10:12:36Z",
-"pasta": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/BELO HORIZONTE",
-"pastas": [
-"04 - CERTIDÃO DE REGULARIDADE MUNICIPAL",
-"BELO HORIZONTE"
-],
-"primeiroVisto": "2026-10-29T19:47:30Z",
-"tamanho": 149236,
-"texto": "Prefeitura de Belo Horizonte\nSecretaria Municipal de Fazenda\nSubsecretaria da Receita Municipal\nDOCUMENTO AUXILIAR DA\nCERTIDÃO POSITIVA COM EFEITO NEGATIVO\nPLENA PESSOA JURIDICA\nREGISTROS DE ACESSO\nCodigo de Controle: ADLMIHPKOK\nDocumento/Certidão nº 39.633.722 Exercício: 2026\nEmissão em: 16/10/2026 Requerimento em: 07:09:53 Validade: 15/11/2026\nNome: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)\nCNPJ: 33.683.111/0007-94\nRessalvando a Prefeitura Municipal de Belo Horizonte o direito de cobrar debitos posteriormente apurados, a Diretoria de\nArrecadação, Cobranca e Divida Ativa da Secretaria Municipal de Fazenda, no uso de suas atribuições legais, certifica que\no Contribuinte acima encontra-se regular com a Fazenda Publica Municipal, em relação aos Tributos, Multas e Precos\ninscritos ou não em divida ativa.\nRESSALVAS\nExiste(m) lancamento(s) com suspensão judicial\nNos termos do Decreto 15.927/2015 este documento auxiliar é a representação gráfica da certidão de débitos e\nsituação fiscal, não substituindo a certidão, que será obtida no Portal da PBH, por meio da autenticação dos registros\nde acesso deste documento.\n16/10/2026, 07:10 cnd.pbh.gov.br/CNDOnline/guiaCND.xhtml\nhttps://cnd.pbh.gov.br/CNDOnline/guiaCND.xhtml 1/1",
-"tipo": "pdf",
-"titulo": "Certidão Municipal Regional Belo Horizonte-MG",
-"uf": "MG",
-"validade": {
-"ate": "2026-11-15",
-"fonte": "documento"
-},
-"validadeDoc": {
-"ate": "2026-11-15",
-"fonte": "documento"
-},
-"ver": "arquivos/37489283c6b5.pdf"
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/BEL%C3%89M",
@@ -3076,7 +3043,15 @@
 "planilhaDiz": null,
 "titulo": "Certidão Negativa de Dívida Ativa",
 "venceu": "2026-11-14"
+},
+{
+"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/BELO%20HORIZONTE",
+"categoria": "CERTIDAO DE REGULARIDADE MUNICIPAL",
+"pasta": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/BELO HORIZONTE",
+"planilhaDiz": null,
+"titulo": "Certidão Municipal Regional Belo Horizonte-MG",
+"venceu": "2026-11-15"
 }
 ],
-"geradoEm": "2026-11-15T03:17:47Z"
+"geradoEm": "2026-11-16T03:17:34Z"
 }
