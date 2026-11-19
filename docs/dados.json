@@ -25,7 +25,7 @@
 "id": "CERTIDAO DE REGULARIDADE ESTADUAL",
 "nome": "Certidão estadual",
 "ordem": "03 - CERTIDÃO DE REGULARIDADE ESTADUAL",
-"total": 13
+"total": 11
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL",
@@ -34,7 +34,7 @@
 "id": "CERTIDAO DE REGULARIDADE MUNICIPAL",
 "nome": "Certidão municipal",
 "ordem": "04 - CERTIDÃO DE REGULARIDADE MUNICIPAL",
-"total": 23
+"total": 22
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/06%20-%20CERTID%C3%83O%20TRABALHISTA%20%28TST%29",
@@ -870,69 +870,6 @@
 "ver": "arquivos/88354ce214c5.pdf"
 },
 {
-"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/RIO%20DE%20JANEIRO",
-"arquivo": "CERTIDAO ESTADUAL DO RIO DE JANEIRO.pdf",
-"caminho": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/RIO DE JANEIRO/CERTIDAO ESTADUAL DO RIO DE JANEIRO.pdf",
-"categoria": "CERTIDAO DE REGULARIDADE ESTADUAL",
-"cidade": null,
-"download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/RIO%20DE%20JANEIRO&files=CERTIDAO%20ESTADUAL%20DO%20RIO%20DE%20JANEIRO.pdf",
-"etag": "fc9b1d8027de019771704baca4462770",
-"id": "822edee7bdc1",
-"leitura": "texto",
-"miniatura": "miniaturas/822edee7bdc1.webp",
-"modificadoEm": "2026-10-19T17:50:55Z",
-"pasta": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/RIO DE JANEIRO",
-"pastas": [
-"03 - CERTIDÃO DE REGULARIDADE ESTADUAL",
-"RIO DE JANEIRO"
-],
-"primeiroVisto": "2026-10-29T19:47:35Z",
-"tamanho": 220232,
-"texto": "GOVERNO DO ESTADO DO RIO DE JANEIROSECRETARIA DE ESTADO DE FAZENDA DO RIO DE JANEIROCERTIDÃO DE REGULARIDADE FISCAL Nº 2026187845713CERTIDÃO NEGATIVA DE DÉBITOS - CNDIDENTIFICAÇÃO DO REQUERENTECPF/RAIZ DO CNPJ: 33.683.111 CAD-ICMS: InscritoNOME/RAZÃO SOCIAL: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS SERPROCERTIFICA-SE para fins de direito e de acordo com as informações registradas nosSistemas Corporativos da Secretaria de Estado de Fazenda que, até a presente data,NÃO CONSTAM DÉBITOS perante a Fazenda Estadual para o requerente acimaidentificado, ressalvado o direito de a Receita Estadual cobrar e inscrever as dívidas desua responsabilidade, que vierem a ser apuradas.EMITIDA EM: 19/10/2026 14:47VÁLIDA ATÉ: 18/11/2026 14:47Certidão emitida com base na Resolução SEFAZ n° 109 de 04/08/2017OBSERVAÇÕES1. Esta certidão deve estar acompanhada da Certidão da Dívida Ativa, emitida pelo órgão próprio daProcuradoria Geral do Estado, nos termos da Resolução Conjunta SEFAZ/PGE n° 33/2004.2. A aceitação desta certidão está condicionada a verificação de sua autenticidade na internet, no endereço:www.fazenda.rj.gov.br.3. Esta certidão não se destina a atestar débitos do imposto sobre transmissão 'causa mortis' e doação, dequaisquer bens ou direitos (ITD).4. Qualquer rasura ou emenda invalida este documento.",
-"tipo": "pdf",
-"titulo": "Certidão Estadual do Rio de Janeiro",
-"uf": "RJ",
-"validade": {
-"ate": "2026-11-18",
-"fonte": "documento"
-},
-"validadeDoc": {
-"ate": "2026-11-18",
-"fonte": "documento"
-},
-"ver": "arquivos/822edee7bdc1.pdf"
-},
-{
-"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/RIO%20DE%20JANEIRO",
-"arquivo": "CERTIDAO PGE RIO DE JANEIRO.pdf",
-"caminho": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/RIO DE JANEIRO/CERTIDAO PGE RIO DE JANEIRO.pdf",
-"categoria": "CERTIDAO DE REGULARIDADE ESTADUAL",
-"cidade": null,
-"download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/RIO%20DE%20JANEIRO&files=CERTIDAO%20PGE%20RIO%20DE%20JANEIRO.pdf",
-"etag": "e331b1057a37075408edbaa2178be8a8",
-"id": "c64ab64ffd7a",
-"leitura": "texto",
-"miniatura": "miniaturas/c64ab64ffd7a.webp",
-"modificadoEm": "2026-10-20T18:21:05Z",
-"pasta": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/RIO DE JANEIRO",
-"pastas": [
-"03 - CERTIDÃO DE REGULARIDADE ESTADUAL",
-"RIO DE JANEIRO"
-],
-"primeiroVisto": "2026-10-29T19:47:35Z",
-"tamanho": 8092,
-"texto": "PROCURADORIA GERAL DO ESTADO\nCERTIDÃO NEGATIVA DE DÉBITOS EM DÍVIDA ATIVA\nCertifico que, em consulta ao Sistema da Dívida Ativa no dia 19/10/2026, em referência ao pedido 281678/2026 , NÃO CONSTA DÉBITO INSCRITO em Dívida\nAtiva para o CPF ou CNPJ informado abaixo:\nRAZÃO SOCIAL:\nServiço Federal de Processamento de Dados - Sepro\nCNPJ:\n33.683.111/0008-75\nINSCRIÇÃO ESTADUAL:\n00.94089.5\nA certidão negativa de Dívida Ativa e a certidão negativa de ICMS ou a certidão para não contribuinte do ICMS somente terão validade quando apresentadas em\nconjunto.\nOs dados apresentados nesta certidão baseiam-se em pesquisa realizada a partir do CPF ou CNPJ fornecido no momento da apresentação do requerimento.\nFica ressalvado o direito da Fazenda Estadual de inscrever e cobrar débitos que vierem a ser apurados posteriormente à emissão da presente certidão.\nA aceitação desta certidão está condicionada a verificação de sua autenticidade na INTERNET, no endereço: https://pge.rj.gov.br/divida-ativa/certidao-de-regularidade-\nfiscal\nCÓDIGO CERTIDÃO: WQQX.2110.221V.5074\nPESQUISA CADASTRAL realizada em: 19/10/2026às 17:40:36.2\nEsta certidão tem validade até 17/04/2027, considerando 180 (cento e oitenta) dias após a pesquisa cadastral realizada na data e hora acima, conforme artigo 11 da\nResolução nº 2690 de 05/10/2009.\nPara maiores informações: https://pge.rj.gov.br/divida-ativa\nEmitida em 20/10/2026às 15:17:40.1",
-"tipo": "pdf",
-"titulo": "Certidão PGE Rio de Janeiro",
-"uf": "RJ",
-"validade": {
-"ate": "2026-11-18",
-"fonte": "tabela de vencimentos"
-},
-"validadeDoc": null,
-"ver": "arquivos/c64ab64ffd7a.pdf"
-},
-{
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/RIO%20GRANDE%20DO%20NORTE",
 "arquivo": "CND RIO GRANDE DO NORTE.pdf",
 "caminho": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/RIO GRANDE DO NORTE/CND RIO GRANDE DO NORTE.pdf",
@@ -1606,36 +1543,6 @@
 "fonte": "documento"
 },
 "ver": "arquivos/1b05eeacf5f6.pdf"
-},
-{
-"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/SALVADOR",
-"arquivo": "CERTIDAO MUNICIPAL REGIONAL SALVADOR-BA.pdf",
-"caminho": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/SALVADOR/CERTIDAO MUNICIPAL REGIONAL SALVADOR-BA.pdf",
-"categoria": "CERTIDAO DE REGULARIDADE MUNICIPAL",
-"cidade": "Salvador",
-"download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/SALVADOR&files=CERTIDAO%20MUNICIPAL%20REGIONAL%20SALVADOR-BA.pdf",
-"etag": "56c96af8dc3e8e85dd3846fd7d974dbc",
-"id": "5b9bf23b4210",
-"leitura": "texto",
-"miniatura": "miniaturas/5b9bf23b4210.webp",
-"modificadoEm": "2026-10-19T14:39:11Z",
-"pasta": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/SALVADOR",
-"pastas": [
-"04 - CERTIDÃO DE REGULARIDADE MUNICIPAL",
-"SALVADOR"
-],
-"primeiroVisto": "2026-10-29T19:47:18Z",
-"tamanho": 91921,
-"texto": "Prefeitura Municipal do Salvador - PMS\nSecretaria Municipal da Fazenda - SEFAZ\nProcuradoria Geral do Município de Salvador - PGMS\nCERTIDÃO POSITIVA COM EFEITO DE NEGATIVA DE DÉBITOS TRIBUTÁRIOS NA\nSEFAZ E TRIBUTÁRIOS E NÃO TRIBUTÁRIOS INSCRITOS NA DÍVIDA ATIVA DO\nMUNICÍPIO DE SALVADOR\nRazão Social: SERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)\nCNPJ: 33.683.111/0006-03\nEndereço: AVENIDA LUIS VIANA FILHO Nº 2355 - NÃƒO INFORMADO, SALVADOR/BA\n- CEP: 41745000 -\nNúmero da Certidão: 4978173\nÉ certificado que:\nConstam débitos administrados pela SEFAZ com exigibilidade suspensa nos termos do art. 8º, da Lei n° 7.186, de 27\nde dezembro de 2006 - Código Tributário e de Rendas do Município de Salvador (CTRMS), ou objeto de decisão\njudicial que determina sua desconsideração para fins de certificação da regularidade fiscal, ou ainda não vencidos;\ne/ou\nConstam nos sistemas da PGMS débitos inscritos em Dívida Ativa do Município com exigibilidade suspensa nos\ntermos do art. 8º, da Lei n° 7.186, de 27 de dezembro de 2006 - Código Tributário e de Rendas do Município de\nSalvador (CTRMS), ou garantidos mediante bens ou direitos, ou com embargos da Fazenda Pública em processos de\nexecução fiscal, ou objeto de decisão judicial que determina sua desconsideração para fins de certificação da\nregularidade fiscal.\nEsta certidão se refere à situação fiscal, compreendendo créditos tributários administrados pela SEFAZ e a inscrições\nem Dívida Ativa junto à PGMS e abrange, inclusive, a situação cadastral do estabelecimento matriz e suas filiais ou\nimóvel(is) em que esteja(m) na condição de contribuinte.\nConforme disposto no art. 279, do CTRMS, este documento tem os mesmos efeitos da Certidão Negativa.\nFica ressalvado o direito de o Município cobrar e inscrever em Dívida Ativa quaisquer dívidas do sujeito passivo que\nvierem a ser apuradas.\nA aceitação desta certidão está condicionada a verificação de sua autenticidade na Internet, no endereço\nhttps://sefaz.salvador.ba.gov.br\nCertidão emitida gratuitamente com base na Lei nº 7.186/2006 - CTRMS.\nCertidão emitida às 11:37:31 horas do dia 19/10/2026.\nVálida até dia 18/11/2026.\nCódigo de controle da certidão: 40B8.470A.F0DD.892A.57E8.FBD2.F241.3684\nEsta certidão foi emitida pela página da Secretaria Municipal da Fazenda, no endereço\nhttp://www.sefaz.salvador.ba.gov.br, e sua autenticidade pode ser confirmada utilizando o código de controle acima.\n19/10/2026, 11:38 Certidão de Regularidade Fiscal Municipal\nhttps://servicosweb.sefaz.salvador.ba.gov.br/sistema/certidao_negativa/servicos_certidao_negativa_form.asp 1/1",
-"tipo": "pdf",
-"titulo": "Certidão Municipal Regional Salvador-BA",
-"uf": "BA",
-"validade": {
-"ate": "2026-11-18",
-"fonte": "tabela de vencimentos"
-},
-"validadeDoc": null,
-"ver": "arquivos/5b9bf23b4210.pdf"
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/S%C3%83O%20LU%C3%8DS",
@@ -2996,7 +2903,31 @@
 "planilhaDiz": null,
 "titulo": "Certidão Municipal Regional São Paulo (2)",
 "venceu": "2026-11-16"
+},
+{
+"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/SALVADOR",
+"categoria": "CERTIDAO DE REGULARIDADE MUNICIPAL",
+"pasta": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/SALVADOR",
+"planilhaDiz": null,
+"titulo": "Certidão Municipal Regional Salvador-BA",
+"venceu": "2026-11-18"
+},
+{
+"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/RIO%20DE%20JANEIRO",
+"categoria": "CERTIDAO DE REGULARIDADE ESTADUAL",
+"pasta": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/RIO DE JANEIRO",
+"planilhaDiz": null,
+"titulo": "Certidão Estadual do Rio de Janeiro",
+"venceu": "2026-11-18"
+},
+{
+"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/03%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20ESTADUAL/RIO%20DE%20JANEIRO",
+"categoria": "CERTIDAO DE REGULARIDADE ESTADUAL",
+"pasta": "/03 - CERTIDÃO DE REGULARIDADE ESTADUAL/RIO DE JANEIRO",
+"planilhaDiz": null,
+"titulo": "Certidão PGE Rio de Janeiro",
+"venceu": "2026-11-18"
 }
 ],
-"geradoEm": "2026-11-18T20:17:39Z"
+"geradoEm": "2026-11-19T03:17:37Z"
 }
