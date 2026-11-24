@@ -34,7 +34,7 @@
 "id": "CERTIDAO DE REGULARIDADE MUNICIPAL",
 "nome": "Certidão municipal",
 "ordem": "04 - CERTIDÃO DE REGULARIDADE MUNICIPAL",
-"total": 22
+"total": 21
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/06%20-%20CERTID%C3%83O%20TRABALHISTA%20%28TST%29",
@@ -1264,39 +1264,6 @@
 },
 "validadeDoc": null,
 "ver": "arquivos/4f449dc204e2.pdf"
-},
-{
-"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/JO%C3%83O%20PESSOA",
-"arquivo": "CERTIDAO MUNICIPAL ESCRITORIO DE JOAO PESSOA-PB.pdf",
-"caminho": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/JOÃO PESSOA/CERTIDAO MUNICIPAL ESCRITORIO DE JOAO PESSOA-PB.pdf",
-"categoria": "CERTIDAO DE REGULARIDADE MUNICIPAL",
-"cidade": "João Pessoa",
-"download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/JO%C3%83O%20PESSOA&files=CERTIDAO%20MUNICIPAL%20ESCRITORIO%20DE%20JOAO%20PESSOA-PB.pdf",
-"etag": "10fa70c475d558d44d9e0a173b4168b3",
-"id": "afd30ee49e83",
-"leitura": "texto",
-"miniatura": "miniaturas/afd30ee49e83.webp",
-"modificadoEm": "2026-10-13T10:23:24Z",
-"pasta": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/JOÃO PESSOA",
-"pastas": [
-"04 - CERTIDÃO DE REGULARIDADE MUNICIPAL",
-"JOÃO PESSOA"
-],
-"primeiroVisto": "2026-10-29T19:47:24Z",
-"tamanho": 123255,
-"texto": "N° Via 2\nPREFEITURA MUNICIPAL DE JOÃO PESSOA\nSECRETARIA DA RECEITA MUNICIPAL\nPROCURADORIA GERAL DO MUNICÍPIO\nCERTIDÃO NEGATIVA DE DÉBITOS MUNICIPAIS\nNÚMERO DA CERTIDÃO: 1.462.217/26-58\nDADOS DO CONTRIBUINTE\nCPF/CNPJ\n33.683.111/0038-90\nNome do Contribuinte\nSERVICO FEDERAL DE PROCESSAMENTO DE DADOS \n(SERPRO)\nEndereço\nAVENIDA PRESIDENTE EPITACIO PESSOA, 1705 , BAIRRO TAMBAUZINHO, JOAO PESSOA/PB - \nCEP: 58.042-006\nPARECER DA CERTIDÃO\nPara inventário, deve ser apresentada, além da presente, igualmente certidão negativa de cada \nimóvel.\nRessalvado o direito de a Fazenda Pública Municipal lançar e inscrever quaisquer dívidas que \nvierem a ser apuradas fica certificado que, até a presente data, não constam em nome do \nrequerente acima qualificado, pendências relativas às receitas municipais, de naturezas \ntributárias ou não, inscritas ou não no Registro da Dívida Ativa do Município. \nEsta certidão atesta a regularidade fiscal do contribuinte e não representa a retirada automática \ndos débitos do registro público de inadimplência, para o que será necessário o pagamento \nprévio dos emolumentos específicos.\nINSCRIÇÕES VINCULADAS AO REQUERENTE\nMERCANTIS: 0000689696\nIMOBILIÁRIAS: \nOBSERVAÇÕES\nCertidão válida até: 23/11/2026\nCódigo de autenticidade: 005226D0E1BF90A3\nA aceitação desta certidão está condicionada à inexistência de emendas ou rasuras.\nCertidão emitida gratuitamente em 24 de Setembro de 2026\nA autenticidade desta certidão deve ser confirmada na pagina da Secretaria da Receita,\nno endereço: https://www.joaopessoa.pb.gov.br/",
-"tipo": "pdf",
-"titulo": "Certidão Municipal Escritório de João Pessoa-PB",
-"uf": "PB",
-"validade": {
-"ate": "2026-11-23",
-"fonte": "documento"
-},
-"validadeDoc": {
-"ate": "2026-11-23",
-"fonte": "documento"
-},
-"ver": "arquivos/afd30ee49e83.pdf"
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/MANAUS",
@@ -2927,7 +2894,15 @@
 "planilhaDiz": null,
 "titulo": "Certidão PGE Rio de Janeiro",
 "venceu": "2026-11-18"
+},
+{
+"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/JO%C3%83O%20PESSOA",
+"categoria": "CERTIDAO DE REGULARIDADE MUNICIPAL",
+"pasta": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/JOÃO PESSOA",
+"planilhaDiz": null,
+"titulo": "Certidão Municipal Escritório de João Pessoa-PB",
+"venceu": "2026-11-23"
 }
 ],
-"geradoEm": "2026-11-19T03:17:37Z"
+"geradoEm": "2026-11-24T03:17:37Z"
 }
