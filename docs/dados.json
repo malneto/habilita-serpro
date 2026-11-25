@@ -34,7 +34,7 @@
 "id": "CERTIDAO DE REGULARIDADE MUNICIPAL",
 "nome": "Certidão municipal",
 "ordem": "04 - CERTIDÃO DE REGULARIDADE MUNICIPAL",
-"total": 21
+"total": 19
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/06%20-%20CERTID%C3%83O%20TRABALHISTA%20%28TST%29",
@@ -1329,36 +1329,6 @@
 "ver": "arquivos/0d98ac845e9d.pdf"
 },
 {
-"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/PALMAS",
-"arquivo": "CERTIDAO MUNICIPAL ESCRITORIO DE PALMAS-TO.pdf",
-"caminho": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/PALMAS/CERTIDAO MUNICIPAL ESCRITORIO DE PALMAS-TO.pdf",
-"categoria": "CERTIDAO DE REGULARIDADE MUNICIPAL",
-"cidade": "Palmas",
-"download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/PALMAS&files=CERTIDAO%20MUNICIPAL%20ESCRITORIO%20DE%20PALMAS-TO.pdf",
-"etag": "543876a3bf3fb6acf3933c2b49f4369e",
-"id": "ff270e811a6f",
-"leitura": "texto",
-"miniatura": "miniaturas/ff270e811a6f.webp",
-"modificadoEm": "2026-09-25T12:04:30Z",
-"pasta": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/PALMAS",
-"pastas": [
-"04 - CERTIDÃO DE REGULARIDADE MUNICIPAL",
-"PALMAS"
-],
-"primeiroVisto": "2026-10-29T19:47:21Z",
-"tamanho": 156998,
-"texto": "PREFEITURA DE PALMAS\nSECRETARIA MUNICIPAL DA FAZENDA E TRANSFORMAÇÃO DIGITAL\n SUPERINTENDÊNCIA DE ADMINISTRAÇÃO TRIBUTÁRIA\n CERTIDÃO NEGATIVA DE DÉBITOS TRIBUTÁRIOS - NÃO CADASTRAL\n CONTRIBUINTE\nCPF/CNPJ: 33.683.111/0050-87\nFinalidade: Contrato Junto ao Poder Público\n É certificado que, nesta data, esta pessoa não faz parte do cadastro de contribuintes da Prefeitura de Palmas, e portanto a\nmesma não possui lançamentos informados relativos a tributos municipais, inclusive em Dívida Ativa, ressalvado o direito de a\nFazenda Pública Municipal cobrar e inscrever quaisquer dívidas que vierem a ser apuradas.\n Esta Certidão refere-se exclusivamente à situação da pessoa jurídica no âmbito da Secretaria de Finanças da Prefeitura\nMunicipal de Palmas.\n Atenção: qualquer rasura ou emenda invalidará este documento.\n Base legal: art. 138 da Lei Complementar n° 285, de 31 de outubro de 2013, c/c art. 205 do Código Tributário Nacional.\n A aceitação da presente Certidão está condicionada à verificação de sua autenticidade na internet, no endereço\nhttp://cnd.palmas.to.gov.br/validar-documento/, ou em qualquer Agência de Rendas da Secretaria Municipal da Fazenda, através\ndo numero identificador e do código de validação logo abaixo:\n \nNumero identificador: 33.683.111/0050-87\nCódigo de validação: 9453d.d7d0b.43211-1473238\n \nPalmas, 25 de Setembro de 2026 às 09:01.\n \n Certidão válida até 24 de Novembro de 2026",
-"tipo": "pdf",
-"titulo": "Certidão Municipal Escritório de Palmas-TO",
-"uf": "TO",
-"validade": {
-"ate": "2026-11-24",
-"fonte": "tabela de vencimentos"
-},
-"validadeDoc": null,
-"ver": "arquivos/ff270e811a6f.pdf"
-},
-{
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/PORTO%20ALEGRE",
 "arquivo": "CERTIDAO MUNICIPAL REGIONAL PORTO ALEGRE-RS.pdf",
 "caminho": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/PORTO ALEGRE/CERTIDAO MUNICIPAL REGIONAL PORTO ALEGRE-RS.pdf",
@@ -1417,36 +1387,6 @@
 },
 "validadeDoc": null,
 "ver": "arquivos/b249209a59fb.pdf"
-},
-{
-"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/RECIFE",
-"arquivo": "CERTIDAO MUNICIPAL REGIONAL RECIFE-PE.pdf",
-"caminho": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/RECIFE/CERTIDAO MUNICIPAL REGIONAL RECIFE-PE.pdf",
-"categoria": "CERTIDAO DE REGULARIDADE MUNICIPAL",
-"cidade": "Recife",
-"download": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS/download?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/RECIFE&files=CERTIDAO%20MUNICIPAL%20REGIONAL%20RECIFE-PE.pdf",
-"etag": "d9fe0f6118fe6d7302a825e891397ac9",
-"id": "e1712458b261",
-"leitura": "texto",
-"miniatura": "miniaturas/e1712458b261.webp",
-"modificadoEm": "2026-09-25T11:53:14Z",
-"pasta": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/RECIFE",
-"pastas": [
-"04 - CERTIDÃO DE REGULARIDADE MUNICIPAL",
-"RECIFE"
-],
-"primeiroVisto": "2026-10-29T19:47:20Z",
-"tamanho": 26142,
-"texto": "6201-50-1 DESENVOLVIMENTO DE PROGRAMAS DE COMPUTADOR SOB ENCOMENDA\n8599-60-3 TREINAMENTO EM INFORMATICA\n6209-10-0 SUPORTE TECNICO MANUTENCAO E OUTROS SERVICOS EM TECNOLOGIA DA INFORMACAO\n6204-00-0 CONSULTORIA EM TECNOLOGIA DA INFORMACAO\n6202-30-0 DESENVOLVIMENTO E LICENCIAMENTO DE PROGRAMAS DE COMPUTADOR CUSTOMIZAVEIS\n6311-90-0 TRATAMENTO DE DADOS PROVEDORES DE SERV DE APLIC E SERV DE HOSPED NA INTERNET\n4. CNPJ/CPF\n2. CMC\n006.632-0\n33.683.111/0005-22\nSERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)\n1. Denominação Social/Nome\n3. Endereço\nRecife, 25 de SETEMBRO de 2026\nCertidão Negativa\nDébitos Fiscais\n5. Atividade Econômica\nAV PARNAMIRIM, 295\n6. Descrição\n9. Código de Autenticidade 10. Expedida em\nNº da Certidão\n \nPREFEITURA DO RECIFE\nSECRETARIA DE FINANÇAS\nSecretaria Executiva de Tributação\nBAIRRO Parnamirim, CEP 52060-000, RECIFE-PE\n7. Ressalva\n8. Validade/Autenticidade\nCertifico, de acordo com a legislação em vigor e em conformidade com os registros cadastrais\n/ fiscais, nesta data, que o contribuinte de que trata a presente certidão está\nregularizado com o erário municipal no que concerne aos lançamentos relativos aos tributos\nmunicipais.\n* * * * * * * * * * *\nEsta certidão é válida por 60 (sessenta) dias a contar da data de sua expedição e sua\nautenticidade deverá ser confirmada na página http://recifeemdia.recife.pe.gov.br/certidoes\n144166840\n500.2524.3000\nCertidão de regularidade perante a Fazenda Municipal em relação a débitos tributários em\ncobrança administrativa ou judicial. Supre o requisito do art. 68,III, da Lei Federal 14.133/2021.\n11. Certidão emitida com base nos pagamentos registrados até\n23 de SETEMBRO de 2026\nA Prefeitura do Recife poderá cobrar e inscrever quaisquer dívidas de responsabilidade do sujeito\npassivo acima identificado, que vierem a ser apuradas.",
-"tipo": "pdf",
-"titulo": "Certidão Municipal Regional Recife-PE",
-"uf": "PE",
-"validade": {
-"ate": "2026-11-24",
-"fonte": "tabela de vencimentos"
-},
-"validadeDoc": null,
-"ver": "arquivos/e1712458b261.pdf"
 },
 {
 "abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/RIO%20BRANCO",
@@ -2902,7 +2842,23 @@
 "planilhaDiz": null,
 "titulo": "Certidão Municipal Escritório de João Pessoa-PB",
 "venceu": "2026-11-23"
+},
+{
+"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/RECIFE",
+"categoria": "CERTIDAO DE REGULARIDADE MUNICIPAL",
+"pasta": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/RECIFE",
+"planilhaDiz": null,
+"titulo": "Certidão Municipal Regional Recife-PE",
+"venceu": "2026-11-24"
+},
+{
+"abrirPasta": "https://serprodrive.serpro.gov.br/s/rYe4xqS7Tr3xwkS?path=/04%20-%20CERTID%C3%83O%20DE%20REGULARIDADE%20MUNICIPAL/PALMAS",
+"categoria": "CERTIDAO DE REGULARIDADE MUNICIPAL",
+"pasta": "/04 - CERTIDÃO DE REGULARIDADE MUNICIPAL/PALMAS",
+"planilhaDiz": null,
+"titulo": "Certidão Municipal Escritório de Palmas-TO",
+"venceu": "2026-11-24"
 }
 ],
-"geradoEm": "2026-11-24T03:17:37Z"
+"geradoEm": "2026-11-25T03:17:35Z"
 }
